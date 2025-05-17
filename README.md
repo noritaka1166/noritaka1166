@@ -1,5 +1,5 @@
 I'm a Japanese software engineer and test engineer.  
-I'm studying English, so sorry if my English is hard to understand...
+I'm studying English, so sorry if my English is hard to understand...🙇
 
 ## My Skills
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,arduino,babel,bash,c,css,dynamodb,eclipse,emacs,express,figma,firebase,git,github,gitlab,html,idea,java,js,jenkins,jest,md,matlab,mysql,nodejs,npm,openshift,postgres,postman,powershell,py,raspberrypi,react,redhat,redux,regex,styledcomponents,selenium,ts,vercel,vim,vscode,webpack)](https://skillicons.dev)
