@@ -1,26 +1,35 @@
-I'm a Japanese software engineer and test engineer.  
-I'm studying English, so sorry if my English is hard to understand...🙇
-
-## My Skills
-[![My Skills](https://skillicons.dev/icons?i=androidstudio,arduino,babel,bash,c,css,dynamodb,eclipse,emacs,express,figma,firebase,git,github,gitlab,html,idea,java,js,jenkins,jest,md,matlab,mysql,nodejs,npm,openshift,postgres,postman,powershell,py,raspberrypi,react,redhat,redux,regex,styledcomponents,selenium,ts,vercel,vim,vscode,webpack)](https://skillicons.dev)
-
-### Under Studing
-[![My Skills](https://skillicons.dev/icons?i=aws,azure,flutter,gcp,gradle,kotlin,spring,swift)](https://skillicons.dev)
-
-## Status
-<p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noritaka1166&layout=compact&count_private=true&show_icons=true&theme=onedark" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=noritaka1166&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
+<!-- Hero Section -->
+<h2 align="center">Hi, I'm Noritaka 👋</h2>
+<p align="center">
+  🧑‍💻 Japanese / Software Engineer / Test Engineer / OSS Contributor<br>
+  I'm studying English, so sorry if my English is hard to understand 🙇
+</p>
+<p align="center">
+  <a href="https://github.com/noritaka1166"><img src="https://img.shields.io/github/followers/noritaka1166?label=GitHub&style=social"></a>
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=noritaka1166&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+---
 
-<!---
-noritaka1166/noritaka1166 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🛠️ Tech Stack
 
-## 🛠 Contributions
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,arduino,babel,bash,c,css,dynamodb,eclipse,emacs,express,figma,firebase,git,github,gitlab,html,idea,java,js,jenkins,jest,md,matlab,mysql,nodejs,npm,openshift,postgres,postman,powershell,py,raspberrypi,react,redhat,redux,regex,styledcomponents,selenium,ts,vercel,vim,vscode,webpack)](https://skillicons.dev)
+
+#### Under Studing
+[![My Skills](https://skillicons.dev/icons?i=aws,azure,flutter,gcp,gradle,kotlin,spring,swift)](https://skillicons.dev)
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center"> 
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=noritaka1166&count_private=true&show_icons=true&show_icons=true&theme=tokyonight" />
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noritaka1166&layout=compact&count_private=true&show_icons=true&theme=tokyonight" />
+  <img alt="trophy" src="https://github-profile-trophy.vercel.app/?username=noritaka1166&theme=onedark&column=7" />
+</p>
+
+---
+
+### 🧑‍🤝‍🧑 OSS Contributions
 
 <!-- CONTRIBUTIONS:START -->
 - **DefinitelyTyped**
@@ -116,3 +125,10 @@ You can click the Preview link to take a look at your changes.
   - [webpack-dev-server](https://github.com/webpack/webpack-dev-server/pulls?q=is%3Apr+author%3Anoritaka1166)
   - [webpack-sources](https://github.com/webpack/webpack-sources/pulls?q=is%3Apr+author%3Anoritaka1166)
 <!-- CONTRIBUTIONS:END -->
+
+---
+
+<!-- Footer -->
+<p align="center">
+  Thanks for visiting! ⭐️
+</p>
