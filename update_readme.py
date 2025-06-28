@@ -46,4 +46,33 @@ def fetch_all_contributed_repos():
         if "errors" in data:
             raise Exception(data["errors"])
 
-        pr_contribs = data["data"]["user"]["contributionsCollection"]["pullR]()_
+        pr_contribs = data["data"]["user"]["contributionsCollection"]["pullRequestContributions"]
+
+        for node in pr_contribs["nodes"]:
+            pr = node.get("pullRequest")
+            if pr:
+                repo = pr.get("repository")
+                if repo and not repo.get("isFork", False):
+                    repos.add(repo["nameWithOwner"])
+
+        if not pr_contribs["pageInfo"]["hasNextPage"]:
+            break
+        after = pr_contribs["pageInfo"]["endCursor"]
+
+    return sorted(repos)
+
+def update_readme(repos):
+    with open(README_PATH, "r", encoding="utf-8") as f:
+        content = f.read()
+
+    before, _, after = content.partition(MARKER)
+    new_content = f"{before}{MARKER}\n" + "\n".join(f"- [{r}](https://github.com/{r})" for r in repos) + "\n"
+
+    with open(README_PATH, "w", encoding="utf-8") as f:
+        f.write(new_content + after)
+
+if __name__ == "__main__":
+    if not GITHUB_TOKEN:
+        raise EnvironmentError("GH_TOKEN is not set in environment variables")
+    repos = fetch_all_contributed_repos()
+    update_readme(repos)
