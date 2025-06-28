@@ -1,5 +1,6 @@
 import os
 import requests
+from collections import defaultdict
 
 GITHUB_TOKEN = os.getenv("GH_TOKEN")
 USERNAME = "noritaka1166"
@@ -62,14 +63,26 @@ def fetch_all_contributed_repos():
     return sorted(repos)
 
 def update_readme(repos):
+    grouped = defaultdict(list)
+    for full_name in repos:
+        owner, name = full_name.split("/")
+        grouped[owner].append(name)
+
     with open(README_PATH, "r", encoding="utf-8") as f:
         content = f.read()
 
     before, _, after = content.partition(MARKER)
-    new_content = f"{before}{MARKER}\n" + "\n".join(f"- [{r}](https://github.com/{r})" for r in repos) + "\n"
+
+    lines = [f"{MARKER}"]
+    for owner in sorted(grouped):
+        lines.append(f"- **{owner}**")
+        for name in sorted(grouped[owner]):
+            lines.append(f"  - [{name}](https://github.com/{owner}/{name})")
+
+    new_content = before + "\n".join(lines) + "\n" + after
 
     with open(README_PATH, "w", encoding="utf-8") as f:
-        f.write(new_content + after)
+        f.write(new_content)
 
 if __name__ == "__main__":
     if not GITHUB_TOKEN:
