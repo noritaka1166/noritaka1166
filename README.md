@@ -26,6 +26,7 @@ You can click the Preview link to take a look at your changes.
 - **DefinitelyTyped**
   - [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped/pulls?q=is%3Apr+author%3Anoritaka1166)
 - **RooCodeInc**
+  - [Roo-Code](https://github.com/RooCodeInc/Roo-Code/pulls?q=is%3Apr+author%3Anoritaka1166)
   - [Roo-Code-Docs](https://github.com/RooCodeInc/Roo-Code-Docs/pulls?q=is%3Apr+author%3Anoritaka1166)
 - **SeleniumHQ**
   - [seleniumhq.github.io](https://github.com/SeleniumHQ/seleniumhq.github.io/pulls?q=is%3Apr+author%3Anoritaka1166)
