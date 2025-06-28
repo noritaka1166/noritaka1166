@@ -28,7 +28,9 @@ def fetch_all_contributed_repos_via_search():
               ... on PullRequest {
                 repository {
                   nameWithOwner
-                  isFork
+                  owner {
+                    login
+                  }
                 }
               }
             }
@@ -54,8 +56,11 @@ def fetch_all_contributed_repos_via_search():
 
         for pr in data["data"]["search"]["nodes"]:
             repo = pr["repository"]
-            if not repo["isFork"]:
-                repos.add(repo["nameWithOwner"])
+            owner_login = repo["owner"]["login"]
+            full_name = repo["nameWithOwner"]
+
+            if owner_login != USERNAME:
+                repos.add(full_name)
 
         page_info = data["data"]["search"]["pageInfo"]
         after = page_info["endCursor"]
