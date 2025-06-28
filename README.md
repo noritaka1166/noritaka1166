@@ -24,6 +24,98 @@ You can click the Preview link to take a look at your changes.
 
 <!-- CONTRIBUTIONS:START -->
 - **DefinitelyTyped**
+  - [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped/pulls?q=is%3Apr+author%3Anoritaka1166)
+- **RooCodeInc**
+  - [Roo-Code-Docs](https://github.com/RooCodeInc/Roo-Code-Docs/pulls?q=is%3Apr+author%3Anoritaka1166)
+- **SeleniumHQ**
+  - [seleniumhq.github.io](https://github.com/SeleniumHQ/seleniumhq.github.io/pulls?q=is%3Apr+author%3Anoritaka1166)
+- **appium**
+  - [appium](https://github.com/appium/appium/pulls?q=is%3Apr+author%3Anoritaka1166)
+  - [appium-adb](https://github.com/appium/appium-adb/pulls?q=is%3Apr+author%3Anoritaka1166)
+  - [appium-android-driver](https://github.com/appium/appium-android-driver/pulls?q=is%3Apr+author%3Anoritaka1166)
+  - [appium-chromedriver](https://github.com/appium/appium-chromedriver/pulls?q=is%3Apr+author%3Anoritaka1166)
+  - [appium-espresso-driver](https://github.com/appium/appium-espresso-driver/pulls?q=is%3Apr+author%3Anoritaka1166)
+  - [appium-flutter-driver](https://github.com/appium/appium-flutter-driver/pulls?q=is%3Apr+author%3Anoritaka1166)
+  - [appium-inspector](https://github.com/appium/appium-inspector/pulls?q=is%3Apr+author%3Anoritaka1166)
+  - [appium-uiautomator2-server](https://github.com/appium/appium-uiautomator2-server/pulls?q=is%3Apr+author%3Anoritaka1166)
+  - [appium-xcuitest-driver](https://github.com/appium/appium-xcuitest-driver/pulls?q=is%3Apr+author%3Anoritaka1166)
+  - [python-client](https://github.com/appium/python-client/pulls?q=is%3Apr+author%3Anoritaka1166)
+- **apple**
+  - [container](https://github.com/apple/container/pulls?q=is%3Apr+author%3Anoritaka1166)
+  - [containerization](https://github.com/apple/containerization/pulls?q=is%3Apr+author%3Anoritaka1166)
+- **asciidwango**
+  - [js-primer](https://github.com/asciidwango/js-primer/pulls?q=is%3Apr+author%3Anoritaka1166)
+- **axios**
+  - [axios](https://github.com/axios/axios/pulls?q=is%3Apr+author%3Anoritaka1166)
+- **azu**
+  - [monorepo-utils](https://github.com/azu/monorepo-utils/pulls?q=is%3Apr+author%3Anoritaka1166)
+  - [power-doctest](https://github.com/azu/power-doctest/pulls?q=is%3Apr+author%3Anoritaka1166)
+  - [promises-book](https://github.com/azu/promises-book/pulls?q=is%3Apr+author%3Anoritaka1166)
+- **bcomnes**
+  - [npm-run-all2](https://github.com/bcomnes/npm-run-all2/pulls?q=is%3Apr+author%3Anoritaka1166)
+- **biomejs**
+  - [biome](https://github.com/biomejs/biome/pulls?q=is%3Apr+author%3Anoritaka1166)
+- **brianc**
+  - [node-pg-copy-streams](https://github.com/brianc/node-pg-copy-streams/pulls?q=is%3Apr+author%3Anoritaka1166)
+  - [node-postgres](https://github.com/brianc/node-postgres/pulls?q=is%3Apr+author%3Anoritaka1166)
+- **colinhacks**
+  - [zod](https://github.com/colinhacks/zod/pulls?q=is%3Apr+author%3Anoritaka1166)
+- **editorconfig**
+  - [editorconfig-vscode](https://github.com/editorconfig/editorconfig-vscode/pulls?q=is%3Apr+author%3Anoritaka1166)
+- **expressjs**
+  - [express](https://github.com/expressjs/express/pulls?q=is%3Apr+author%3Anoritaka1166)
+- **facebook**
+  - [docusaurus](https://github.com/facebook/docusaurus/pulls?q=is%3Apr+author%3Anoritaka1166)
+  - [lexical](https://github.com/facebook/lexical/pulls?q=is%3Apr+author%3Anoritaka1166)
+- **faker-js**
+  - [faker](https://github.com/faker-js/faker/pulls?q=is%3Apr+author%3Anoritaka1166)
+- **gitkraken**
+  - [vscode-gitlens](https://github.com/gitkraken/vscode-gitlens/pulls?q=is%3Apr+author%3Anoritaka1166)
+- **google-gemini**
+  - [gemini-cli](https://github.com/google-gemini/gemini-cli/pulls?q=is%3Apr+author%3Anoritaka1166)
+- **honkit**
+  - [honkit](https://github.com/honkit/honkit/pulls?q=is%3Apr+author%3Anoritaka1166)
+- **jestjs**
+  - [jest](https://github.com/jestjs/jest/pulls?q=is%3Apr+author%3Anoritaka1166)
+- **kizitonwose**
+  - [Calendar](https://github.com/kizitonwose/Calendar/pulls?q=is%3Apr+author%3Anoritaka1166)
+- **lint-staged**
+  - [lint-staged](https://github.com/lint-staged/lint-staged/pulls?q=is%3Apr+author%3Anoritaka1166)
+- **marp-team**
+  - [marp-cli](https://github.com/marp-team/marp-cli/pulls?q=is%3Apr+author%3Anoritaka1166)
+- **microsoft**
+  - [edit](https://github.com/microsoft/edit/pulls?q=is%3Apr+author%3Anoritaka1166)
+  - [playwright](https://github.com/microsoft/playwright/pulls?q=is%3Apr+author%3Anoritaka1166)
+  - [vscode-docs](https://github.com/microsoft/vscode-docs/pulls?q=is%3Apr+author%3Anoritaka1166)
+- **nodejs**
+  - [node](https://github.com/nodejs/node/pulls?q=is%3Apr+author%3Anoritaka1166)
+- **open-cli-tools**
+  - [concurrently](https://github.com/open-cli-tools/concurrently/pulls?q=is%3Apr+author%3Anoritaka1166)
+- **plusone-masaki**
+  - [csv-plus](https://github.com/plusone-masaki/csv-plus/pulls?q=is%3Apr+author%3Anoritaka1166)
+- **rxhanson**
+  - [Rectangle](https://github.com/rxhanson/Rectangle/pulls?q=is%3Apr+author%3Anoritaka1166)
+- **secretlint**
+  - [secretlint](https://github.com/secretlint/secretlint/pulls?q=is%3Apr+author%3Anoritaka1166)
+- **statelyai**
+  - [xstate](https://github.com/statelyai/xstate/pulls?q=is%3Apr+author%3Anoritaka1166)
+- **textlint**
+  - [textlint](https://github.com/textlint/textlint/pulls?q=is%3Apr+author%3Anoritaka1166)
+- **ts-safeql**
+  - [safeql](https://github.com/ts-safeql/safeql/pulls?q=is%3Apr+author%3Anoritaka1166)
+- **type-challenges**
+  - [type-challenges](https://github.com/type-challenges/type-challenges/pulls?q=is%3Apr+author%3Anoritaka1166)
+- **web-infra-dev**
+  - [rspack](https://github.com/web-infra-dev/rspack/pulls?q=is%3Apr+author%3Anoritaka1166)
+- **webdiscus**
+  - [ansis](https://github.com/webdiscus/ansis/pulls?q=is%3Apr+author%3Anoritaka1166)
+- **webpack**
+  - [webpack](https://github.com/webpack/webpack/pulls?q=is%3Apr+author%3Anoritaka1166)
+  - [webpack-cli](https://github.com/webpack/webpack-cli/pulls?q=is%3Apr+author%3Anoritaka1166)
+  - [webpack-dev-server](https://github.com/webpack/webpack-dev-server/pulls?q=is%3Apr+author%3Anoritaka1166)
+  - [webpack-sources](https://github.com/webpack/webpack-sources/pulls?q=is%3Apr+author%3Anoritaka1166)
+
+- **DefinitelyTyped**
   - [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
 - **Huachao**
   - [vscode-restclient](https://github.com/Huachao/vscode-restclient)
