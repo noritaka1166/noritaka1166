@@ -5,7 +5,8 @@ from collections import defaultdict
 GITHUB_TOKEN = os.getenv("GH_TOKEN")
 USERNAME = "noritaka1166"
 README_PATH = "README.md"
-MARKER = "<!-- CONTRIBUTIONS:START -->"
+MARKER_START = "<!-- CONTRIBUTIONS:START -->"
+MARKER_END = "<!-- CONTRIBUTIONS:END -->"
 
 QUERY = """
 query($username: String!, $after: String) {
@@ -69,22 +70,32 @@ def update_readme(repos):
         owner, name = full_name.split("/")
         grouped[owner].append(name)
 
+    # 構築する新しいセクション
+    new_lines = [MARKER_START]
+    for owner in sorted(grouped):
+        new_lines.append(f"- **{owner}**")
+        for name in sorted(grouped[owner]):
+            pr_url = f"https://github.com/{owner}/{name}/pulls?q=is%3Apr+author%3A{USERNAME}"
+            new_lines.append(f"  - [{name}]({pr_url})")
+    new_lines.append(MARKER_END)
+    new_section = "\n".join(new_lines)
+
+    # README の既存内容を読み込み
     with open(README_PATH, "r", encoding="utf-8") as f:
         content = f.read()
 
-    before, _, after = content.partition(MARKER)
+    # マーカー間の既存セクションを置換
+    if MARKER_START in content and MARKER_END in content:
+        before = content.split(MARKER_START)[0]
+        after = content.split(MARKER_END)[1]
+        updated = before + new_section + after
+    else:
+        # マーカーが存在しない場合は末尾に追記
+        updated = content + "\n" + new_section + "\n"
 
-    lines = [f"{MARKER}"]
-    for owner in sorted(grouped):
-        lines.append(f"- **{owner}**")
-        for name in sorted(grouped[owner]):
-            pr_url = f"https://github.com/{owner}/{name}/pulls?q=is%3Apr+author%3A{USERNAME}"
-            lines.append(f"  - [{name}]({pr_url})")
-
-    new_content = before + "\n".join(lines) + "\n" + after
-
+    # 書き戻し
     with open(README_PATH, "w", encoding="utf-8") as f:
-        f.write(new_content)
+        f.write(updated)
 
 if __name__ == "__main__":
     if not GITHUB_TOKEN:
