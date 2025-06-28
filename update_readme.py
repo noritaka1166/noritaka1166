@@ -18,6 +18,7 @@ query($username: String!, $after: String) {
         }
         nodes {
           pullRequest {
+            merged
             repository {
               nameWithOwner
               isFork
@@ -51,7 +52,7 @@ def fetch_all_contributed_repos():
 
         for node in pr_contribs["nodes"]:
             pr = node.get("pullRequest")
-            if pr:
+            if pr and pr.get("merged"):
                 repo = pr.get("repository")
                 if repo and not repo.get("isFork", False):
                     repos.add(repo["nameWithOwner"])
@@ -77,7 +78,8 @@ def update_readme(repos):
     for owner in sorted(grouped):
         lines.append(f"- **{owner}**")
         for name in sorted(grouped[owner]):
-            lines.append(f"  - [{name}](https://github.com/{owner}/{name})")
+            pr_url = f"https://github.com/{owner}/{name}/pulls?q=is%3Apr+author%3A{USERNAME}"
+            lines.append(f"  - [{name}]({pr_url})")
 
     new_content = before + "\n".join(lines) + "\n" + after
 
