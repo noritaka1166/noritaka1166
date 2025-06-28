@@ -2,45 +2,48 @@ import os
 import requests
 from collections import defaultdict
 
+# 設定
 GITHUB_TOKEN = os.getenv("GH_TOKEN")
 USERNAME = "noritaka1166"
 README_PATH = "README.md"
 MARKER_START = "<!-- CONTRIBUTIONS:START -->"
 MARKER_END = "<!-- CONTRIBUTIONS:END -->"
 
-QUERY = """
-query($username: String!, $after: String) {
-  user(login: $username) {
-    contributionsCollection {
-      pullRequestContributions(first: 100, after: $after) {
-        pageInfo {
-          hasNextPage
-          endCursor
-        }
-        nodes {
-          pullRequest {
-            merged
-            repository {
-              nameWithOwner
-              isFork
+SEARCH_QUERY = f"is:pr is:merged author:{USERNAME}"
+
+def fetch_all_contributed_repos_via_search():
+    repos = set()
+    has_next_page = True
+    after = None
+
+    while has_next_page:
+        query = """
+        query ($query: String!, $after: String) {
+          search(query: $query, type: ISSUE, first: 100, after: $after) {
+            pageInfo {
+              endCursor
+              hasNextPage
+            }
+            nodes {
+              ... on PullRequest {
+                repository {
+                  nameWithOwner
+                  isFork
+                }
+              }
             }
           }
         }
-      }
-    }
-  }
-}
-"""
+        """
 
-def fetch_all_contributed_repos():
-    repos = set()
-    after = None
+        variables = {
+            "query": SEARCH_QUERY,
+            "after": after
+        }
 
-    while True:
-        variables = {"username": USERNAME, "after": after}
         response = requests.post(
             "https://api.github.com/graphql",
-            json={"query": QUERY, "variables": variables},
+            json={"query": query, "variables": variables},
             headers={"Authorization": f"bearer {GITHUB_TOKEN}"}
         )
 
@@ -49,18 +52,14 @@ def fetch_all_contributed_repos():
         if "errors" in data:
             raise Exception(data["errors"])
 
-        pr_contribs = data["data"]["user"]["contributionsCollection"]["pullRequestContributions"]
+        for pr in data["data"]["search"]["nodes"]:
+            repo = pr["repository"]
+            if not repo["isFork"]:
+                repos.add(repo["nameWithOwner"])
 
-        for node in pr_contribs["nodes"]:
-            pr = node.get("pullRequest")
-            if pr and pr.get("merged"):
-                repo = pr.get("repository")
-                if repo and not repo.get("isFork", False):
-                    repos.add(repo["nameWithOwner"])
-
-        if not pr_contribs["pageInfo"]["hasNextPage"]:
-            break
-        after = pr_contribs["pageInfo"]["endCursor"]
+        page_info = data["data"]["search"]["pageInfo"]
+        after = page_info["endCursor"]
+        has_next_page = page_info["hasNextPage"]
 
     return sorted(repos)
 
@@ -70,7 +69,6 @@ def update_readme(repos):
         owner, name = full_name.split("/")
         grouped[owner].append(name)
 
-    # 構築する新しいセクション
     new_lines = [MARKER_START]
     for owner in sorted(grouped):
         new_lines.append(f"- **{owner}**")
@@ -80,25 +78,21 @@ def update_readme(repos):
     new_lines.append(MARKER_END)
     new_section = "\n".join(new_lines)
 
-    # README の既存内容を読み込み
     with open(README_PATH, "r", encoding="utf-8") as f:
         content = f.read()
 
-    # マーカー間の既存セクションを置換
     if MARKER_START in content and MARKER_END in content:
         before = content.split(MARKER_START)[0]
         after = content.split(MARKER_END)[1]
         updated = before + new_section + after
     else:
-        # マーカーが存在しない場合は末尾に追記
         updated = content + "\n" + new_section + "\n"
 
-    # 書き戻し
     with open(README_PATH, "w", encoding="utf-8") as f:
         f.write(updated)
 
 if __name__ == "__main__":
     if not GITHUB_TOKEN:
         raise EnvironmentError("GH_TOKEN is not set in environment variables")
-    repos = fetch_all_contributed_repos()
+    repos = fetch_all_contributed_repos_via_search()
     update_readme(repos)
