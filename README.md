@@ -103,6 +103,10 @@
   - [concurrently](https://github.com/open-cli-tools/concurrently/pulls?q=is%3Apr+author%3Anoritaka1166)
 - **plusone-masaki**
   - [csv-plus](https://github.com/plusone-masaki/csv-plus/pulls?q=is%3Apr+author%3Anoritaka1166)
+- **pmndrs**
+  - [zustand](https://github.com/pmndrs/zustand/pulls?q=is%3Apr+author%3Anoritaka1166)
+- **reactjs**
+  - [react.dev](https://github.com/reactjs/react.dev/pulls?q=is%3Apr+author%3Anoritaka1166)
 - **rxhanson**
   - [Rectangle](https://github.com/rxhanson/Rectangle/pulls?q=is%3Apr+author%3Anoritaka1166)
 - **secretlint**
