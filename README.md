@@ -85,6 +85,8 @@
   - [gemini-cli](https://github.com/google-gemini/gemini-cli/pulls?q=is%3Apr+author%3Anoritaka1166)
 - **honkit**
   - [honkit](https://github.com/honkit/honkit/pulls?q=is%3Apr+author%3Anoritaka1166)
+- **janisdd**
+  - [vscode-edit-csv](https://github.com/janisdd/vscode-edit-csv/pulls?q=is%3Apr+author%3Anoritaka1166)
 - **jestjs**
   - [jest](https://github.com/jestjs/jest/pulls?q=is%3Apr+author%3Anoritaka1166)
 - **kizitonwose**
