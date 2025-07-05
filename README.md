@@ -47,6 +47,7 @@
   - [appium-espresso-driver](https://github.com/appium/appium-espresso-driver/pulls?q=is%3Apr+author%3Anoritaka1166)
   - [appium-flutter-driver](https://github.com/appium/appium-flutter-driver/pulls?q=is%3Apr+author%3Anoritaka1166)
   - [appium-inspector](https://github.com/appium/appium-inspector/pulls?q=is%3Apr+author%3Anoritaka1166)
+  - [appium-ios-device](https://github.com/appium/appium-ios-device/pulls?q=is%3Apr+author%3Anoritaka1166)
   - [appium-uiautomator2-server](https://github.com/appium/appium-uiautomator2-server/pulls?q=is%3Apr+author%3Anoritaka1166)
   - [appium-xcuitest-driver](https://github.com/appium/appium-xcuitest-driver/pulls?q=is%3Apr+author%3Anoritaka1166)
   - [python-client](https://github.com/appium/python-client/pulls?q=is%3Apr+author%3Anoritaka1166)
@@ -118,6 +119,8 @@
   - [xstate](https://github.com/statelyai/xstate/pulls?q=is%3Apr+author%3Anoritaka1166)
 - **textlint**
   - [textlint](https://github.com/textlint/textlint/pulls?q=is%3Apr+author%3Anoritaka1166)
+- **tj**
+  - [commander.js](https://github.com/tj/commander.js/pulls?q=is%3Apr+author%3Anoritaka1166)
 - **ts-safeql**
   - [safeql](https://github.com/ts-safeql/safeql/pulls?q=is%3Apr+author%3Anoritaka1166)
 - **type-challenges**
