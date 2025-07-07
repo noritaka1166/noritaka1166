@@ -80,6 +80,8 @@
   - [lexical](https://github.com/facebook/lexical/pulls?q=is%3Apr+author%3Anoritaka1166)
 - **faker-js**
   - [faker](https://github.com/faker-js/faker/pulls?q=is%3Apr+author%3Anoritaka1166)
+- **forwardemail**
+  - [supertest](https://github.com/forwardemail/supertest/pulls?q=is%3Apr+author%3Anoritaka1166)
 - **gitkraken**
   - [vscode-gitlens](https://github.com/gitkraken/vscode-gitlens/pulls?q=is%3Apr+author%3Anoritaka1166)
 - **google-gemini**
@@ -119,6 +121,8 @@
   - [secretlint](https://github.com/secretlint/secretlint/pulls?q=is%3Apr+author%3Anoritaka1166)
 - **statelyai**
   - [xstate](https://github.com/statelyai/xstate/pulls?q=is%3Apr+author%3Anoritaka1166)
+- **team-mirai-volunteer**
+  - [action-board](https://github.com/team-mirai-volunteer/action-board/pulls?q=is%3Apr+author%3Anoritaka1166)
 - **textlint**
   - [textlint](https://github.com/textlint/textlint/pulls?q=is%3Apr+author%3Anoritaka1166)
 - **tj**
@@ -127,6 +131,8 @@
   - [safeql](https://github.com/ts-safeql/safeql/pulls?q=is%3Apr+author%3Anoritaka1166)
 - **type-challenges**
   - [type-challenges](https://github.com/type-challenges/type-challenges/pulls?q=is%3Apr+author%3Anoritaka1166)
+- **vadimdemedes**
+  - [ink](https://github.com/vadimdemedes/ink/pulls?q=is%3Apr+author%3Anoritaka1166)
 - **web-infra-dev**
   - [rspack](https://github.com/web-infra-dev/rspack/pulls?q=is%3Apr+author%3Anoritaka1166)
 - **webdiscus**
