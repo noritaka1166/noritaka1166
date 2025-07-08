@@ -38,6 +38,7 @@
   - [Roo-Code](https://github.com/RooCodeInc/Roo-Code/pulls?q=is%3Apr+author%3Anoritaka1166)
   - [Roo-Code-Docs](https://github.com/RooCodeInc/Roo-Code-Docs/pulls?q=is%3Apr+author%3Anoritaka1166)
 - **SeleniumHQ**
+  - [selenium](https://github.com/SeleniumHQ/selenium/pulls?q=is%3Apr+author%3Anoritaka1166)
   - [seleniumhq.github.io](https://github.com/SeleniumHQ/seleniumhq.github.io/pulls?q=is%3Apr+author%3Anoritaka1166)
 - **appium**
   - [appium](https://github.com/appium/appium/pulls?q=is%3Apr+author%3Anoritaka1166)
@@ -102,6 +103,7 @@
   - [edit](https://github.com/microsoft/edit/pulls?q=is%3Apr+author%3Anoritaka1166)
   - [playwright](https://github.com/microsoft/playwright/pulls?q=is%3Apr+author%3Anoritaka1166)
   - [vscode-docs](https://github.com/microsoft/vscode-docs/pulls?q=is%3Apr+author%3Anoritaka1166)
+  - [vscode-eslint](https://github.com/microsoft/vscode-eslint/pulls?q=is%3Apr+author%3Anoritaka1166)
 - **nodejs**
   - [node](https://github.com/nodejs/node/pulls?q=is%3Apr+author%3Anoritaka1166)
 - **open-cli-tools**
@@ -142,6 +144,8 @@
   - [webpack-cli](https://github.com/webpack/webpack-cli/pulls?q=is%3Apr+author%3Anoritaka1166)
   - [webpack-dev-server](https://github.com/webpack/webpack-dev-server/pulls?q=is%3Apr+author%3Anoritaka1166)
   - [webpack-sources](https://github.com/webpack/webpack-sources/pulls?q=is%3Apr+author%3Anoritaka1166)
+- **wojtekmaj**
+  - [react-pdf](https://github.com/wojtekmaj/react-pdf/pulls?q=is%3Apr+author%3Anoritaka1166)
 <!-- CONTRIBUTIONS:END -->
 
 ---
