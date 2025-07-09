@@ -72,6 +72,8 @@
   - [node-postgres](https://github.com/brianc/node-postgres/pulls?q=is%3Apr+author%3Anoritaka1166)
 - **colinhacks**
   - [zod](https://github.com/colinhacks/zod/pulls?q=is%3Apr+author%3Anoritaka1166)
+- **digitaldemocracy2030**
+  - [polimoney](https://github.com/digitaldemocracy2030/polimoney/pulls?q=is%3Apr+author%3Anoritaka1166)
 - **editorconfig**
   - [editorconfig-vscode](https://github.com/editorconfig/editorconfig-vscode/pulls?q=is%3Apr+author%3Anoritaka1166)
 - **expressjs**
@@ -104,6 +106,8 @@
   - [playwright](https://github.com/microsoft/playwright/pulls?q=is%3Apr+author%3Anoritaka1166)
   - [vscode-docs](https://github.com/microsoft/vscode-docs/pulls?q=is%3Apr+author%3Anoritaka1166)
   - [vscode-eslint](https://github.com/microsoft/vscode-eslint/pulls?q=is%3Apr+author%3Anoritaka1166)
+- **mozilla**
+  - [pdf.js](https://github.com/mozilla/pdf.js/pulls?q=is%3Apr+author%3Anoritaka1166)
 - **nodejs**
   - [node](https://github.com/nodejs/node/pulls?q=is%3Apr+author%3Anoritaka1166)
 - **open-cli-tools**
