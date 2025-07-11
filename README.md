@@ -150,6 +150,8 @@
   - [webpack-sources](https://github.com/webpack/webpack-sources/pulls?q=is%3Apr+author%3Anoritaka1166)
 - **wojtekmaj**
   - [react-pdf](https://github.com/wojtekmaj/react-pdf/pulls?q=is%3Apr+author%3Anoritaka1166)
+- **yoshiko-pg**
+  - [difit](https://github.com/yoshiko-pg/difit/pulls?q=is%3Apr+author%3Anoritaka1166)
 <!-- CONTRIBUTIONS:END -->
 
 ---
