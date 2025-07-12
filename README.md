@@ -78,6 +78,7 @@
   - [editorconfig-vscode](https://github.com/editorconfig/editorconfig-vscode/pulls?q=is%3Apr+author%3Anoritaka1166)
 - **expressjs**
   - [express](https://github.com/expressjs/express/pulls?q=is%3Apr+author%3Anoritaka1166)
+  - [session](https://github.com/expressjs/session/pulls?q=is%3Apr+author%3Anoritaka1166)
 - **facebook**
   - [docusaurus](https://github.com/facebook/docusaurus/pulls?q=is%3Apr+author%3Anoritaka1166)
   - [lexical](https://github.com/facebook/lexical/pulls?q=is%3Apr+author%3Anoritaka1166)
