@@ -76,6 +76,10 @@
   - [polimoney](https://github.com/digitaldemocracy2030/polimoney/pulls?q=is%3Apr+author%3Anoritaka1166)
 - **editorconfig**
   - [editorconfig-vscode](https://github.com/editorconfig/editorconfig-vscode/pulls?q=is%3Apr+author%3Anoritaka1166)
+- **electric-sql**
+  - [pglite](https://github.com/electric-sql/pglite/pulls?q=is%3Apr+author%3Anoritaka1166)
+- **express-validator**
+  - [express-validator](https://github.com/express-validator/express-validator/pulls?q=is%3Apr+author%3Anoritaka1166)
 - **expressjs**
   - [express](https://github.com/expressjs/express/pulls?q=is%3Apr+author%3Anoritaka1166)
   - [session](https://github.com/expressjs/session/pulls?q=is%3Apr+author%3Anoritaka1166)
