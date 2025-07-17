@@ -96,6 +96,8 @@
   - [gemini-cli](https://github.com/google-gemini/gemini-cli/pulls?q=is%3Apr+author%3Anoritaka1166)
 - **honkit**
   - [honkit](https://github.com/honkit/honkit/pulls?q=is%3Apr+author%3Anoritaka1166)
+- **instana**
+  - [nodejs](https://github.com/instana/nodejs/pulls?q=is%3Apr+author%3Anoritaka1166)
 - **janisdd**
   - [vscode-edit-csv](https://github.com/janisdd/vscode-edit-csv/pulls?q=is%3Apr+author%3Anoritaka1166)
 - **jestjs**
@@ -138,6 +140,8 @@
   - [textlint](https://github.com/textlint/textlint/pulls?q=is%3Apr+author%3Anoritaka1166)
 - **tj**
   - [commander.js](https://github.com/tj/commander.js/pulls?q=is%3Apr+author%3Anoritaka1166)
+- **toss**
+  - [es-toolkit](https://github.com/toss/es-toolkit/pulls?q=is%3Apr+author%3Anoritaka1166)
 - **ts-safeql**
   - [safeql](https://github.com/ts-safeql/safeql/pulls?q=is%3Apr+author%3Anoritaka1166)
 - **type-challenges**
