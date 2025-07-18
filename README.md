@@ -72,6 +72,7 @@
   - [node-postgres](https://github.com/brianc/node-postgres/pulls?q=is%3Apr+author%3Anoritaka1166)
 - **colinhacks**
   - [zod](https://github.com/colinhacks/zod/pulls?q=is%3Apr+author%3Anoritaka1166)
+  - [zshy](https://github.com/colinhacks/zshy/pulls?q=is%3Apr+author%3Anoritaka1166)
 - **digitaldemocracy2030**
   - [polimoney](https://github.com/digitaldemocracy2030/polimoney/pulls?q=is%3Apr+author%3Anoritaka1166)
 - **editorconfig**
