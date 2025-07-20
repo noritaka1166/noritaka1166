@@ -109,6 +109,7 @@
   - [lint-staged](https://github.com/lint-staged/lint-staged/pulls?q=is%3Apr+author%3Anoritaka1166)
 - **marp-team**
   - [marp-cli](https://github.com/marp-team/marp-cli/pulls?q=is%3Apr+author%3Anoritaka1166)
+  - [marp-vscode](https://github.com/marp-team/marp-vscode/pulls?q=is%3Apr+author%3Anoritaka1166)
 - **microsoft**
   - [edit](https://github.com/microsoft/edit/pulls?q=is%3Apr+author%3Anoritaka1166)
   - [playwright](https://github.com/microsoft/playwright/pulls?q=is%3Apr+author%3Anoritaka1166)
@@ -149,6 +150,8 @@
   - [type-challenges](https://github.com/type-challenges/type-challenges/pulls?q=is%3Apr+author%3Anoritaka1166)
 - **vadimdemedes**
   - [ink](https://github.com/vadimdemedes/ink/pulls?q=is%3Apr+author%3Anoritaka1166)
+- **vavkamil**
+  - [awesome-bugbounty-tools](https://github.com/vavkamil/awesome-bugbounty-tools/pulls?q=is%3Apr+author%3Anoritaka1166)
 - **web-infra-dev**
   - [rspack](https://github.com/web-infra-dev/rspack/pulls?q=is%3Apr+author%3Anoritaka1166)
 - **webdiscus**
