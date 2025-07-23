@@ -154,6 +154,8 @@
   - [ink](https://github.com/vadimdemedes/ink/pulls?q=is%3Apr+author%3Anoritaka1166)
 - **vavkamil**
   - [awesome-bugbounty-tools](https://github.com/vavkamil/awesome-bugbounty-tools/pulls?q=is%3Apr+author%3Anoritaka1166)
+- **vitest-dev**
+  - [vitest](https://github.com/vitest-dev/vitest/pulls?q=is%3Apr+author%3Anoritaka1166)
 - **web-infra-dev**
   - [rspack](https://github.com/web-infra-dev/rspack/pulls?q=is%3Apr+author%3Anoritaka1166)
 - **webdiscus**
