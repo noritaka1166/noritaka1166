@@ -117,6 +117,8 @@
   - [playwright](https://github.com/microsoft/playwright/pulls?q=is%3Apr+author%3Anoritaka1166)
   - [vscode-docs](https://github.com/microsoft/vscode-docs/pulls?q=is%3Apr+author%3Anoritaka1166)
   - [vscode-eslint](https://github.com/microsoft/vscode-eslint/pulls?q=is%3Apr+author%3Anoritaka1166)
+- **mizchi**
+  - [similarity](https://github.com/mizchi/similarity/pulls?q=is%3Apr+author%3Anoritaka1166)
 - **mozilla**
   - [pdf.js](https://github.com/mozilla/pdf.js/pulls?q=is%3Apr+author%3Anoritaka1166)
 - **nodejs**
