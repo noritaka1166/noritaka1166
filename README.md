@@ -61,6 +61,7 @@
   - [js-primer](https://github.com/asciidwango/js-primer/pulls?q=is%3Apr+author%3Anoritaka1166)
 - **axios**
   - [axios](https://github.com/axios/axios/pulls?q=is%3Apr+author%3Anoritaka1166)
+  - [axios-docs](https://github.com/axios/axios-docs/pulls?q=is%3Apr+author%3Anoritaka1166)
 - **azu**
   - [monorepo-utils](https://github.com/azu/monorepo-utils/pulls?q=is%3Apr+author%3Anoritaka1166)
   - [power-doctest](https://github.com/azu/power-doctest/pulls?q=is%3Apr+author%3Anoritaka1166)
@@ -135,6 +136,7 @@
   - [ja.react.dev](https://github.com/reactjs/ja.react.dev/pulls?q=is%3Apr+author%3Anoritaka1166)
   - [react.dev](https://github.com/reactjs/react.dev/pulls?q=is%3Apr+author%3Anoritaka1166)
 - **receptron**
+  - [mulmocast-app](https://github.com/receptron/mulmocast-app/pulls?q=is%3Apr+author%3Anoritaka1166)
   - [mulmocast-cli](https://github.com/receptron/mulmocast-cli/pulls?q=is%3Apr+author%3Anoritaka1166)
 - **rxhanson**
   - [Rectangle](https://github.com/rxhanson/Rectangle/pulls?q=is%3Apr+author%3Anoritaka1166)
