@@ -34,6 +34,8 @@
 <!-- CONTRIBUTIONS:START -->
 - **DefinitelyTyped**
   - [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped/pulls?q=is%3Apr+author%3Anoritaka1166)
+- **Kong**
+  - [insomnia](https://github.com/Kong/insomnia/pulls?q=is%3Apr+author%3Anoritaka1166)
 - **RooCodeInc**
   - [Roo-Code](https://github.com/RooCodeInc/Roo-Code/pulls?q=is%3Apr+author%3Anoritaka1166)
   - [Roo-Code-Docs](https://github.com/RooCodeInc/Roo-Code-Docs/pulls?q=is%3Apr+author%3Anoritaka1166)
@@ -78,6 +80,7 @@
   - [zod](https://github.com/colinhacks/zod/pulls?q=is%3Apr+author%3Anoritaka1166)
   - [zshy](https://github.com/colinhacks/zshy/pulls?q=is%3Apr+author%3Anoritaka1166)
 - **digitaldemocracy2030**
+  - [kouchou-ai](https://github.com/digitaldemocracy2030/kouchou-ai/pulls?q=is%3Apr+author%3Anoritaka1166)
   - [polimoney](https://github.com/digitaldemocracy2030/polimoney/pulls?q=is%3Apr+author%3Anoritaka1166)
   - [website](https://github.com/digitaldemocracy2030/website/pulls?q=is%3Apr+author%3Anoritaka1166)
 - **editorconfig**
