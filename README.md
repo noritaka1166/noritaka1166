@@ -115,6 +115,8 @@
   - [Calendar](https://github.com/kizitonwose/Calendar/pulls?q=is%3Apr+author%3Anoritaka1166)
 - **lint-staged**
   - [lint-staged](https://github.com/lint-staged/lint-staged/pulls?q=is%3Apr+author%3Anoritaka1166)
+- **lmstudio-ai**
+  - [docs](https://github.com/lmstudio-ai/docs/pulls?q=is%3Apr+author%3Anoritaka1166)
 - **marp-team**
   - [marp-cli](https://github.com/marp-team/marp-cli/pulls?q=is%3Apr+author%3Anoritaka1166)
   - [marp-vscode](https://github.com/marp-team/marp-vscode/pulls?q=is%3Apr+author%3Anoritaka1166)
@@ -127,6 +129,8 @@
   - [similarity](https://github.com/mizchi/similarity/pulls?q=is%3Apr+author%3Anoritaka1166)
 - **mozilla**
   - [pdf.js](https://github.com/mozilla/pdf.js/pulls?q=is%3Apr+author%3Anoritaka1166)
+- **mui**
+  - [material-ui](https://github.com/mui/material-ui/pulls?q=is%3Apr+author%3Anoritaka1166)
 - **nodejs**
   - [node](https://github.com/nodejs/node/pulls?q=is%3Apr+author%3Anoritaka1166)
 - **open-cli-tools**
@@ -139,6 +143,7 @@
   - [ja.react.dev](https://github.com/reactjs/ja.react.dev/pulls?q=is%3Apr+author%3Anoritaka1166)
   - [react.dev](https://github.com/reactjs/react.dev/pulls?q=is%3Apr+author%3Anoritaka1166)
 - **receptron**
+  - [graphai](https://github.com/receptron/graphai/pulls?q=is%3Apr+author%3Anoritaka1166)
   - [mulmocast-app](https://github.com/receptron/mulmocast-app/pulls?q=is%3Apr+author%3Anoritaka1166)
   - [mulmocast-cli](https://github.com/receptron/mulmocast-cli/pulls?q=is%3Apr+author%3Anoritaka1166)
 - **rxhanson**
@@ -153,6 +158,8 @@
   - [textlint](https://github.com/textlint/textlint/pulls?q=is%3Apr+author%3Anoritaka1166)
 - **tj**
   - [commander.js](https://github.com/tj/commander.js/pulls?q=is%3Apr+author%3Anoritaka1166)
+- **tonybaloney**
+  - [vscode-pets](https://github.com/tonybaloney/vscode-pets/pulls?q=is%3Apr+author%3Anoritaka1166)
 - **toss**
   - [es-toolkit](https://github.com/toss/es-toolkit/pulls?q=is%3Apr+author%3Anoritaka1166)
 - **ts-safeql**
