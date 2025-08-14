@@ -39,6 +39,8 @@
 - **RooCodeInc**
   - [Roo-Code](https://github.com/RooCodeInc/Roo-Code/pulls?q=is%3Apr+author%3Anoritaka1166)
   - [Roo-Code-Docs](https://github.com/RooCodeInc/Roo-Code-Docs/pulls?q=is%3Apr+author%3Anoritaka1166)
+- **ScrumGuides**
+  - [ScrumGuide-ExpansionPack](https://github.com/ScrumGuides/ScrumGuide-ExpansionPack/pulls?q=is%3Apr+author%3Anoritaka1166)
 - **SeleniumHQ**
   - [selenium](https://github.com/SeleniumHQ/selenium/pulls?q=is%3Apr+author%3Anoritaka1166)
   - [seleniumhq.github.io](https://github.com/SeleniumHQ/seleniumhq.github.io/pulls?q=is%3Apr+author%3Anoritaka1166)
