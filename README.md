@@ -85,6 +85,8 @@
   - [kouchou-ai](https://github.com/digitaldemocracy2030/kouchou-ai/pulls?q=is%3Apr+author%3Anoritaka1166)
   - [polimoney](https://github.com/digitaldemocracy2030/polimoney/pulls?q=is%3Apr+author%3Anoritaka1166)
   - [website](https://github.com/digitaldemocracy2030/website/pulls?q=is%3Apr+author%3Anoritaka1166)
+- **dotenvx**
+  - [dotenvx](https://github.com/dotenvx/dotenvx/pulls?q=is%3Apr+author%3Anoritaka1166)
 - **editorconfig**
   - [editorconfig-vscode](https://github.com/editorconfig/editorconfig-vscode/pulls?q=is%3Apr+author%3Anoritaka1166)
 - **electric-sql**
@@ -122,6 +124,8 @@
 - **marp-team**
   - [marp-cli](https://github.com/marp-team/marp-cli/pulls?q=is%3Apr+author%3Anoritaka1166)
   - [marp-vscode](https://github.com/marp-team/marp-vscode/pulls?q=is%3Apr+author%3Anoritaka1166)
+- **mechatroner**
+  - [vscode_rainbow_csv](https://github.com/mechatroner/vscode_rainbow_csv/pulls?q=is%3Apr+author%3Anoritaka1166)
 - **microsoft**
   - [edit](https://github.com/microsoft/edit/pulls?q=is%3Apr+author%3Anoritaka1166)
   - [playwright](https://github.com/microsoft/playwright/pulls?q=is%3Apr+author%3Anoritaka1166)
