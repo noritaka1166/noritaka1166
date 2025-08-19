@@ -87,6 +87,7 @@
   - [website](https://github.com/digitaldemocracy2030/website/pulls?q=is%3Apr+author%3Anoritaka1166)
 - **dotenvx**
   - [dotenvx](https://github.com/dotenvx/dotenvx/pulls?q=is%3Apr+author%3Anoritaka1166)
+  - [dotenvx.github.io](https://github.com/dotenvx/dotenvx.github.io/pulls?q=is%3Apr+author%3Anoritaka1166)
 - **editorconfig**
   - [editorconfig-vscode](https://github.com/editorconfig/editorconfig-vscode/pulls?q=is%3Apr+author%3Anoritaka1166)
 - **electric-sql**
@@ -111,6 +112,8 @@
   - [honkit](https://github.com/honkit/honkit/pulls?q=is%3Apr+author%3Anoritaka1166)
 - **instana**
   - [nodejs](https://github.com/instana/nodejs/pulls?q=is%3Apr+author%3Anoritaka1166)
+- **istanbuljs**
+  - [istanbuljs](https://github.com/istanbuljs/istanbuljs/pulls?q=is%3Apr+author%3Anoritaka1166)
 - **janisdd**
   - [vscode-edit-csv](https://github.com/janisdd/vscode-edit-csv/pulls?q=is%3Apr+author%3Anoritaka1166)
 - **jestjs**
