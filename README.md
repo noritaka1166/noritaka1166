@@ -82,6 +82,7 @@
   - [zod](https://github.com/colinhacks/zod/pulls?q=is%3Apr+author%3Anoritaka1166)
   - [zshy](https://github.com/colinhacks/zshy/pulls?q=is%3Apr+author%3Anoritaka1166)
 - **digitaldemocracy2030**
+  - [idobata](https://github.com/digitaldemocracy2030/idobata/pulls?q=is%3Apr+author%3Anoritaka1166)
   - [kouchou-ai](https://github.com/digitaldemocracy2030/kouchou-ai/pulls?q=is%3Apr+author%3Anoritaka1166)
   - [polimoney](https://github.com/digitaldemocracy2030/polimoney/pulls?q=is%3Apr+author%3Anoritaka1166)
   - [website](https://github.com/digitaldemocracy2030/website/pulls?q=is%3Apr+author%3Anoritaka1166)
