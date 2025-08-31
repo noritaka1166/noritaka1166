@@ -47,6 +47,8 @@
 - **Tochijihai**
   - [common](https://github.com/Tochijihai/common/pulls?q=is%3Apr+author%3Anoritaka1166)
   - [user](https://github.com/Tochijihai/user/pulls?q=is%3Apr+author%3Anoritaka1166)
+- **adaltas**
+  - [node-csv](https://github.com/adaltas/node-csv/pulls?q=is%3Apr+author%3Anoritaka1166)
 - **appium**
   - [appium](https://github.com/appium/appium/pulls?q=is%3Apr+author%3Anoritaka1166)
   - [appium-adb](https://github.com/appium/appium-adb/pulls?q=is%3Apr+author%3Anoritaka1166)
@@ -140,6 +142,9 @@
   - [similarity](https://github.com/mizchi/similarity/pulls?q=is%3Apr+author%3Anoritaka1166)
 - **mozilla**
   - [pdf.js](https://github.com/mozilla/pdf.js/pulls?q=is%3Apr+author%3Anoritaka1166)
+- **mswjs**
+  - [msw](https://github.com/mswjs/msw/pulls?q=is%3Apr+author%3Anoritaka1166)
+  - [mswjs.io](https://github.com/mswjs/mswjs.io/pulls?q=is%3Apr+author%3Anoritaka1166)
 - **mui**
   - [material-ui](https://github.com/mui/material-ui/pulls?q=is%3Apr+author%3Anoritaka1166)
 - **nodejs**
