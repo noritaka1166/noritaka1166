@@ -168,6 +168,8 @@
   - [secretlint](https://github.com/secretlint/secretlint/pulls?q=is%3Apr+author%3Anoritaka1166)
 - **statelyai**
   - [xstate](https://github.com/statelyai/xstate/pulls?q=is%3Apr+author%3Anoritaka1166)
+- **stripe**
+  - [pg-schema-diff](https://github.com/stripe/pg-schema-diff/pulls?q=is%3Apr+author%3Anoritaka1166)
 - **team-mirai-volunteer**
   - [action-board](https://github.com/team-mirai-volunteer/action-board/pulls?q=is%3Apr+author%3Anoritaka1166)
 - **textlint**
