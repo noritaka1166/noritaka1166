@@ -34,6 +34,8 @@
 <!-- CONTRIBUTIONS:START -->
 - **DefinitelyTyped**
   - [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped/pulls?q=is%3Apr+author%3Anoritaka1166)
+- **Hacker0x01**
+  - [react-datepicker](https://github.com/Hacker0x01/react-datepicker/pulls?q=is%3Apr+author%3Anoritaka1166)
 - **Kong**
   - [insomnia](https://github.com/Kong/insomnia/pulls?q=is%3Apr+author%3Anoritaka1166)
 - **RooCodeInc**
