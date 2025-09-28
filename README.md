@@ -64,6 +64,7 @@
   - [appium-ios-device](https://github.com/appium/appium-ios-device/pulls?q=is%3Apr+author%3Anoritaka1166)
   - [appium-uiautomator2-server](https://github.com/appium/appium-uiautomator2-server/pulls?q=is%3Apr+author%3Anoritaka1166)
   - [appium-xcuitest-driver](https://github.com/appium/appium-xcuitest-driver/pulls?q=is%3Apr+author%3Anoritaka1166)
+  - [io.appium.settings](https://github.com/appium/io.appium.settings/pulls?q=is%3Apr+author%3Anoritaka1166)
   - [python-client](https://github.com/appium/python-client/pulls?q=is%3Apr+author%3Anoritaka1166)
 - **apple**
   - [container](https://github.com/apple/container/pulls?q=is%3Apr+author%3Anoritaka1166)
@@ -198,6 +199,8 @@
   - [rspack](https://github.com/web-infra-dev/rspack/pulls?q=is%3Apr+author%3Anoritaka1166)
 - **webdiscus**
   - [ansis](https://github.com/webdiscus/ansis/pulls?q=is%3Apr+author%3Anoritaka1166)
+- **webdriverio**
+  - [expect-webdriverio](https://github.com/webdriverio/expect-webdriverio/pulls?q=is%3Apr+author%3Anoritaka1166)
 - **webpack**
   - [webpack](https://github.com/webpack/webpack/pulls?q=is%3Apr+author%3Anoritaka1166)
   - [webpack-cli](https://github.com/webpack/webpack-cli/pulls?q=is%3Apr+author%3Anoritaka1166)
