@@ -62,9 +62,11 @@
   - [appium-flutter-driver](https://github.com/appium/appium-flutter-driver/pulls?q=is%3Apr+author%3Anoritaka1166)
   - [appium-inspector](https://github.com/appium/appium-inspector/pulls?q=is%3Apr+author%3Anoritaka1166)
   - [appium-ios-device](https://github.com/appium/appium-ios-device/pulls?q=is%3Apr+author%3Anoritaka1166)
+  - [appium-mac2-driver](https://github.com/appium/appium-mac2-driver/pulls?q=is%3Apr+author%3Anoritaka1166)
   - [appium-uiautomator2-server](https://github.com/appium/appium-uiautomator2-server/pulls?q=is%3Apr+author%3Anoritaka1166)
   - [appium-xcuitest-driver](https://github.com/appium/appium-xcuitest-driver/pulls?q=is%3Apr+author%3Anoritaka1166)
   - [io.appium.settings](https://github.com/appium/io.appium.settings/pulls?q=is%3Apr+author%3Anoritaka1166)
+  - [java-client](https://github.com/appium/java-client/pulls?q=is%3Apr+author%3Anoritaka1166)
   - [python-client](https://github.com/appium/python-client/pulls?q=is%3Apr+author%3Anoritaka1166)
 - **apple**
   - [container](https://github.com/apple/container/pulls?q=is%3Apr+author%3Anoritaka1166)
