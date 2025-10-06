@@ -150,6 +150,7 @@
 - **mozilla**
   - [pdf.js](https://github.com/mozilla/pdf.js/pulls?q=is%3Apr+author%3Anoritaka1166)
 - **mswjs**
+  - [data](https://github.com/mswjs/data/pulls?q=is%3Apr+author%3Anoritaka1166)
   - [msw](https://github.com/mswjs/msw/pulls?q=is%3Apr+author%3Anoritaka1166)
   - [mswjs.io](https://github.com/mswjs/mswjs.io/pulls?q=is%3Apr+author%3Anoritaka1166)
 - **mui**
