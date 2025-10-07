@@ -205,6 +205,9 @@
   - [ansis](https://github.com/webdiscus/ansis/pulls?q=is%3Apr+author%3Anoritaka1166)
 - **webdriverio**
   - [expect-webdriverio](https://github.com/webdriverio/expect-webdriverio/pulls?q=is%3Apr+author%3Anoritaka1166)
+  - [visual-testing](https://github.com/webdriverio/visual-testing/pulls?q=is%3Apr+author%3Anoritaka1166)
+- **webdriverio-community**
+  - [wdio-video-reporter](https://github.com/webdriverio-community/wdio-video-reporter/pulls?q=is%3Apr+author%3Anoritaka1166)
 - **webpack**
   - [webpack](https://github.com/webpack/webpack/pulls?q=is%3Apr+author%3Anoritaka1166)
   - [webpack-cli](https://github.com/webpack/webpack-cli/pulls?q=is%3Apr+author%3Anoritaka1166)
