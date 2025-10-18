@@ -32,6 +32,8 @@
 ### 🧑‍🤝‍🧑 OSS Contributions
 
 <!-- CONTRIBUTIONS:START -->
+- **AppiumTestDistribution**
+  - [appium-flutter-integration-driver](https://github.com/AppiumTestDistribution/appium-flutter-integration-driver/pulls?q=is%3Apr+author%3Anoritaka1166)
 - **DefinitelyTyped**
   - [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped/pulls?q=is%3Apr+author%3Anoritaka1166)
 - **Hacker0x01**
@@ -182,6 +184,7 @@
 - **team-mirai-volunteer**
   - [action-board](https://github.com/team-mirai-volunteer/action-board/pulls?q=is%3Apr+author%3Anoritaka1166)
   - [marumie](https://github.com/team-mirai-volunteer/marumie/pulls?q=is%3Apr+author%3Anoritaka1166)
+  - [mirai-gikai](https://github.com/team-mirai-volunteer/mirai-gikai/pulls?q=is%3Apr+author%3Anoritaka1166)
 - **textlint**
   - [textlint](https://github.com/textlint/textlint/pulls?q=is%3Apr+author%3Anoritaka1166)
 - **tj**
