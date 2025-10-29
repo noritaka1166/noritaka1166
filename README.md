@@ -93,6 +93,8 @@
 - **brianc**
   - [node-pg-copy-streams](https://github.com/brianc/node-pg-copy-streams/pulls?q=is%3Apr+author%3Anoritaka1166)
   - [node-postgres](https://github.com/brianc/node-postgres/pulls?q=is%3Apr+author%3Anoritaka1166)
+- **cheeriojs**
+  - [cheerio](https://github.com/cheeriojs/cheerio/pulls?q=is%3Apr+author%3Anoritaka1166)
 - **colinhacks**
   - [zod](https://github.com/colinhacks/zod/pulls?q=is%3Apr+author%3Anoritaka1166)
   - [zshy](https://github.com/colinhacks/zshy/pulls?q=is%3Apr+author%3Anoritaka1166)
