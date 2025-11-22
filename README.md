@@ -216,6 +216,7 @@
   - [expect-webdriverio](https://github.com/webdriverio/expect-webdriverio/pulls?q=is%3Apr+author%3Anoritaka1166)
   - [visual-testing](https://github.com/webdriverio/visual-testing/pulls?q=is%3Apr+author%3Anoritaka1166)
   - [vscode-webdriverio](https://github.com/webdriverio/vscode-webdriverio/pulls?q=is%3Apr+author%3Anoritaka1166)
+  - [webdriverio](https://github.com/webdriverio/webdriverio/pulls?q=is%3Apr+author%3Anoritaka1166)
 - **webdriverio-community**
   - [wdio-video-reporter](https://github.com/webdriverio-community/wdio-video-reporter/pulls?q=is%3Apr+author%3Anoritaka1166)
 - **webpack**
