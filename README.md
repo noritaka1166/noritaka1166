@@ -58,6 +58,7 @@
 - **antfu**
   - [node-modules-inspector](https://github.com/antfu/node-modules-inspector/pulls?q=is%3Apr+author%3Anoritaka1166)
 - **appium**
+  - [VodQAReactNative](https://github.com/appium/VodQAReactNative/pulls?q=is%3Apr+author%3Anoritaka1166)
   - [appium](https://github.com/appium/appium/pulls?q=is%3Apr+author%3Anoritaka1166)
   - [appium-adb](https://github.com/appium/appium-adb/pulls?q=is%3Apr+author%3Anoritaka1166)
   - [appium-android-driver](https://github.com/appium/appium-android-driver/pulls?q=is%3Apr+author%3Anoritaka1166)
