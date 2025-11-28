@@ -172,6 +172,8 @@
   - [csv-plus](https://github.com/plusone-masaki/csv-plus/pulls?q=is%3Apr+author%3Anoritaka1166)
 - **pmndrs**
   - [zustand](https://github.com/pmndrs/zustand/pulls?q=is%3Apr+author%3Anoritaka1166)
+- **prettier**
+  - [prettier-vscode](https://github.com/prettier/prettier-vscode/pulls?q=is%3Apr+author%3Anoritaka1166)
 - **reactjs**
   - [ja.react.dev](https://github.com/reactjs/ja.react.dev/pulls?q=is%3Apr+author%3Anoritaka1166)
   - [react.dev](https://github.com/reactjs/react.dev/pulls?q=is%3Apr+author%3Anoritaka1166)
