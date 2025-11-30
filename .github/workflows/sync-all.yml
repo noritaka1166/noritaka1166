@@ -1,0 +1,36 @@
+name: Sync All Forks
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # 毎日深夜0時に実行
+  workflow_dispatch:    # 手動実行ボタン
+
+jobs:
+  sync-forks:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Sync all forked repositories
+        env:
+          # ここで作成したPATを使用することで、全リポジトリへのアクセス権を得る
+          GH_TOKEN: ${{ secrets.MY_PAT }}
+        run: |
+          echo "🔍 フォークしたリポジトリ一覧を取得中..."
+          
+          # 自分のフォークリポジトリを最大1000件取得
+          # --source: 自分自身のリポジトリのみを対象にするフィルタ
+          REPOS=$(gh repo list --fork --limit 1000 --json nameWithOwner -q '.[].nameWithOwner')
+          
+          if [ -z "$REPOS" ]; then
+            echo "⚠️ 同期対象のリポジトリが見つかりませんでした。"
+            exit 0
+          fi
+          
+          for REPO in $REPOS; do
+            echo "🔄 Syncing: $REPO ..."
+            
+            # 同期実行
+            # 失敗しても止まらないように '|| true' をつける（ログには残る）
+            gh repo sync "$REPO" || echo "❌ $REPO の同期に失敗しました（コンフリクト等の可能性）"
+          done
+          
+          echo "🎉 完了しました"
