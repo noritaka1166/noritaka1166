@@ -203,6 +203,8 @@
   - [es-toolkit](https://github.com/toss/es-toolkit/pulls?q=is%3Apr+author%3Anoritaka1166)
 - **ts-safeql**
   - [safeql](https://github.com/ts-safeql/safeql/pulls?q=is%3Apr+author%3Anoritaka1166)
+- **twpayne**
+  - [chezmoi](https://github.com/twpayne/chezmoi/pulls?q=is%3Apr+author%3Anoritaka1166)
 - **type-challenges**
   - [type-challenges](https://github.com/type-challenges/type-challenges/pulls?q=is%3Apr+author%3Anoritaka1166)
 - **vadimdemedes**
