@@ -36,6 +36,8 @@
   - [appium-flutter-integration-driver](https://github.com/AppiumTestDistribution/appium-flutter-integration-driver/pulls?q=is%3Apr+author%3Anoritaka1166)
 - **DefinitelyTyped**
   - [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped/pulls?q=is%3Apr+author%3Anoritaka1166)
+- **DiemasMichiels**
+  - [emulator](https://github.com/DiemasMichiels/emulator/pulls?q=is%3Apr+author%3Anoritaka1166)
 - **Hacker0x01**
   - [react-datepicker](https://github.com/Hacker0x01/react-datepicker/pulls?q=is%3Apr+author%3Anoritaka1166)
 - **KanbanGuides**
