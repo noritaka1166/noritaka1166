@@ -191,10 +191,11 @@
   - [xstate](https://github.com/statelyai/xstate/pulls?q=is%3Apr+author%3Anoritaka1166)
 - **stripe**
   - [pg-schema-diff](https://github.com/stripe/pg-schema-diff/pulls?q=is%3Apr+author%3Anoritaka1166)
+- **team-mirai**
+  - [marumie](https://github.com/team-mirai/marumie/pulls?q=is%3Apr+author%3Anoritaka1166)
+  - [mirai-gikai](https://github.com/team-mirai/mirai-gikai/pulls?q=is%3Apr+author%3Anoritaka1166)
 - **team-mirai-volunteer**
   - [action-board](https://github.com/team-mirai-volunteer/action-board/pulls?q=is%3Apr+author%3Anoritaka1166)
-  - [marumie](https://github.com/team-mirai-volunteer/marumie/pulls?q=is%3Apr+author%3Anoritaka1166)
-  - [mirai-gikai](https://github.com/team-mirai-volunteer/mirai-gikai/pulls?q=is%3Apr+author%3Anoritaka1166)
 - **textlint**
   - [textlint](https://github.com/textlint/textlint/pulls?q=is%3Apr+author%3Anoritaka1166)
 - **tj**
