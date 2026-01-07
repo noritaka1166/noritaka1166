@@ -78,8 +78,6 @@
 - **apple**
   - [container](https://github.com/apple/container/pulls?q=is%3Apr+author%3Anoritaka1166)
   - [containerization](https://github.com/apple/containerization/pulls?q=is%3Apr+author%3Anoritaka1166)
-- **asciidwango**
-  - [js-primer](https://github.com/asciidwango/js-primer/pulls?q=is%3Apr+author%3Anoritaka1166)
 - **axios**
   - [axios](https://github.com/axios/axios/pulls?q=is%3Apr+author%3Anoritaka1166)
   - [axios-docs](https://github.com/axios/axios-docs/pulls?q=is%3Apr+author%3Anoritaka1166)
@@ -139,6 +137,10 @@
   - [vscode-edit-csv](https://github.com/janisdd/vscode-edit-csv/pulls?q=is%3Apr+author%3Anoritaka1166)
 - **jestjs**
   - [jest](https://github.com/jestjs/jest/pulls?q=is%3Apr+author%3Anoritaka1166)
+- **js-primer**
+  - [js-primer](https://github.com/js-primer/js-primer/pulls?q=is%3Apr+author%3Anoritaka1166)
+- **kelektiv**
+  - [node.bcrypt.js](https://github.com/kelektiv/node.bcrypt.js/pulls?q=is%3Apr+author%3Anoritaka1166)
 - **kizitonwose**
   - [Calendar](https://github.com/kizitonwose/Calendar/pulls?q=is%3Apr+author%3Anoritaka1166)
 - **lint-staged**
