@@ -170,6 +170,8 @@
   - [material-ui](https://github.com/mui/material-ui/pulls?q=is%3Apr+author%3Anoritaka1166)
 - **nodejs**
   - [node](https://github.com/nodejs/node/pulls?q=is%3Apr+author%3Anoritaka1166)
+- **nvm-sh**
+  - [nvm](https://github.com/nvm-sh/nvm/pulls?q=is%3Apr+author%3Anoritaka1166)
 - **open-cli-tools**
   - [concurrently](https://github.com/open-cli-tools/concurrently/pulls?q=is%3Apr+author%3Anoritaka1166)
 - **plusone-masaki**
