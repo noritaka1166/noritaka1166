@@ -52,6 +52,8 @@
 - **SeleniumHQ**
   - [selenium](https://github.com/SeleniumHQ/selenium/pulls?q=is%3Apr+author%3Anoritaka1166)
   - [seleniumhq.github.io](https://github.com/SeleniumHQ/seleniumhq.github.io/pulls?q=is%3Apr+author%3Anoritaka1166)
+- **TheSGJ**
+  - [nextjs-toploader](https://github.com/TheSGJ/nextjs-toploader/pulls?q=is%3Apr+author%3Anoritaka1166)
 - **Tochijihai**
   - [common](https://github.com/Tochijihai/common/pulls?q=is%3Apr+author%3Anoritaka1166)
   - [user](https://github.com/Tochijihai/user/pulls?q=is%3Apr+author%3Anoritaka1166)
@@ -155,7 +157,6 @@
 - **microsoft**
   - [edit](https://github.com/microsoft/edit/pulls?q=is%3Apr+author%3Anoritaka1166)
   - [playwright](https://github.com/microsoft/playwright/pulls?q=is%3Apr+author%3Anoritaka1166)
-  - [vscode-docs](https://github.com/microsoft/vscode-docs/pulls?q=is%3Apr+author%3Anoritaka1166)
   - [vscode-eslint](https://github.com/microsoft/vscode-eslint/pulls?q=is%3Apr+author%3Anoritaka1166)
 - **mizchi**
   - [similarity](https://github.com/mizchi/similarity/pulls?q=is%3Apr+author%3Anoritaka1166)
@@ -216,6 +217,8 @@
   - [type-challenges](https://github.com/type-challenges/type-challenges/pulls?q=is%3Apr+author%3Anoritaka1166)
 - **vadimdemedes**
   - [ink](https://github.com/vadimdemedes/ink/pulls?q=is%3Apr+author%3Anoritaka1166)
+- **validatorjs**
+  - [validator.js](https://github.com/validatorjs/validator.js/pulls?q=is%3Apr+author%3Anoritaka1166)
 - **vavkamil**
   - [awesome-bugbounty-tools](https://github.com/vavkamil/awesome-bugbounty-tools/pulls?q=is%3Apr+author%3Anoritaka1166)
 - **vitest-dev**
