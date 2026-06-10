@@ -59,6 +59,7 @@
   - [user](https://github.com/Tochijihai/user/pulls?q=is%3Apr+author%3Anoritaka1166)
 - **adaltas**
   - [node-csv](https://github.com/adaltas/node-csv/pulls?q=is%3Apr+author%3Anoritaka1166)
+  - [node-csv-docs](https://github.com/adaltas/node-csv-docs/pulls?q=is%3Apr+author%3Anoritaka1166)
 - **antfu**
   - [node-modules-inspector](https://github.com/antfu/node-modules-inspector/pulls?q=is%3Apr+author%3Anoritaka1166)
 - **appium**
