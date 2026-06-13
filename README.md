@@ -17,6 +17,9 @@
   <a href="https://github.com/pulls?q=is%3Apr+author%3Anoritaka1166">
     <img src="https://img.shields.io/badge/OSS-Contributor-2ea44f?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="OSS contributor">
   </a>
+  <a href="https://marketplace.visualstudio.com/items?itemName=noritaka1166.npm-dependency-manager">
+    <img src="https://img.shields.io/badge/VS%20Code-Extension-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code extension">
+  </a>
   <img src="https://komarev.com/ghpvc/?username=noritaka1166&style=for-the-badge&color=blue" alt="Profile views">
 </p>
 
@@ -58,6 +61,21 @@
 ### Learning Next
 
 [![Learning next](https://skillicons.dev/icons?i=aws,azure,gcp,gradle,kotlin,spring&perline=6)](https://skillicons.dev)
+
+---
+
+## Published Extension
+
+### npm-dependency-manager
+
+A VS Code extension for working with npm dependencies directly from the editor.
+I built it to make dependency maintenance easier, faster, and closer to everyday development workflows.
+
+<p>
+  <a href="https://marketplace.visualstudio.com/items?itemName=noritaka1166.npm-dependency-manager">
+    <img src="https://img.shields.io/badge/Open_in-VS_Code_Marketplace-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Open in VS Code Marketplace">
+  </a>
+</p>
 
 ---
 
