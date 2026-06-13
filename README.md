@@ -1,35 +1,85 @@
 <!-- Hero Section -->
-<h2 align="center">Hi, I'm Noritaka 👋</h2>
+<h1 align="center">Hi, I'm Noritaka 👋</h1>
+
 <p align="center">
-  🧑‍💻 Japanese / Software Engineer / Test Engineer / OSS Contributor<br>
-  I'm studying English, so sorry if my English is hard to understand 🙇
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=720&lines=Software+Engineer;Test+Engineer;OSS+Contributor;Automation+%26+Developer+Tooling+Enthusiast" alt="Typing SVG">
 </p>
+
 <p align="center">
-  <a href="https://github.com/noritaka1166"><img src="https://img.shields.io/github/followers/noritaka1166?label=GitHub&style=social"></a>
+  <strong>Software Engineer / Test Engineer / OSS Contributor</strong><br>
+  I build, test, and improve software across web, mobile, automation, and developer tooling.
+</p>
+
+<p align="center">
+  <a href="https://github.com/noritaka1166">
+    <img src="https://img.shields.io/github/followers/noritaka1166?label=Follow&style=for-the-badge&logo=github" alt="GitHub followers">
+  </a>
+  <a href="https://github.com/pulls?q=is%3Apr+author%3Anoritaka1166">
+    <img src="https://img.shields.io/badge/OSS-Contributor-2ea44f?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="OSS contributor">
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=noritaka1166&style=for-the-badge&color=blue" alt="Profile views">
 </p>
 
 ---
 
-### 🛠️ Tech Stack
+## About Me
 
-[![My Skills](https://skillicons.dev/icons?i=androidstudio,arduino,babel,bash,c,css,dynamodb,eclipse,emacs,express,figma,firebase,git,github,gitlab,html,idea,java,js,jenkins,jest,md,matlab,mysql,nodejs,npm,openshift,postgres,postman,powershell,py,raspberrypi,react,redhat,redux,regex,styledcomponents,selenium,ts,vercel,vim,vscode,webpack)](https://skillicons.dev)
-
-#### Under Studing
-[![My Skills](https://skillicons.dev/icons?i=aws,azure,flutter,gcp,gradle,kotlin,spring,swift)](https://skillicons.dev)
+<table>
+  <tr>
+    <td width="50%">
+      <h3>What I Do</h3>
+      <ul>
+        <li>🇯🇵 Japanese engineer working across software development and test engineering</li>
+        <li>🧪 Interested in test automation, developer experience, CI, mobile, and web tooling</li>
+        <li>🤝 Contributing to OSS through bug fixes, tests, docs, maintenance, and tooling</li>
+        <li>🗣️ Studying English and improving communication with global communities</li>
+      </ul>
+    </td>
+    <td width="50%">
+      <h3>Current Focus</h3>
+      <ul>
+        <li>Cloud platforms and backend frameworks</li>
+        <li>Mobile development with Kotlin and Gradle</li>
+        <li>Automation quality for web and mobile apps</li>
+        <li>Small practical improvements that help maintainers and users</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 📈 GitHub Stats
+## Tech Stack
 
-<p align="center"> 
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=noritaka1166&count_private=true&show_icons=true&show_icons=true&theme=tokyonight" />
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noritaka1166&layout=compact&count_private=true&show_icons=true&theme=tokyonight" />
-  <img alt="trophy" src="https://github-profile-trophy.vercel.app/?username=noritaka1166&theme=onedark&column=7" />
+### Daily Drivers
+
+[![Daily drivers](https://skillicons.dev/icons?i=js,ts,react,nodejs,express,java,git,github,gitlab,jenkins,jest,selenium,postgres,mysql,firebase,androidstudio,vscode,idea&perline=9)](https://skillicons.dev)
+
+### Learning Next
+
+[![Learning next](https://skillicons.dev/icons?i=aws,azure,gcp,gradle,kotlin,spring&perline=6)](https://skillicons.dev)
+
+---
+
+## GitHub Activity
+
+<p align="center">
+  <img alt="GitHub stats" height="165" src="https://github-readme-stats.vercel.app/api?username=noritaka1166&count_private=true&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img alt="Top languages" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noritaka1166&layout=compact&count_private=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img alt="GitHub trophies" src="https://github-profile-trophy.vercel.app/?username=noritaka1166&theme=onedark&column=7&margin-w=8&margin-h=8&no-frame=true" />
 </p>
 
 ---
 
-### 🧑‍🤝‍🧑 OSS Contributions
+## OSS Contributions
+
+I like contributing small, practical improvements to projects I use or care about: bug fixes, tests, docs, maintenance, typing, tooling, and developer experience improvements.
+
+<details>
+<summary>View detailed contribution links</summary>
 
 <!-- CONTRIBUTIONS:START -->
 - **AppiumTestDistribution**
@@ -246,9 +296,11 @@
   - [difit](https://github.com/yoshiko-pg/difit/pulls?q=is%3Apr+author%3Anoritaka1166)
 <!-- CONTRIBUTIONS:END -->
 
+</details>
+
 ---
 
 <!-- Footer -->
 <p align="center">
-  Thanks for visiting! ⭐️
+  Thanks for visiting. Let's keep making software better, one small improvement at a time.
 </p>
