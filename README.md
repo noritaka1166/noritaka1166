@@ -78,6 +78,9 @@ I built it to make dependency maintenance easier, faster, and closer to everyday
   <a href="https://marketplace.visualstudio.com/items?itemName=noritaka1166.npm-dependency-manager">
     <img src="https://img.shields.io/badge/Open_in-VS_Code_Marketplace-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Open in VS Code Marketplace">
   </a>
+  <a href="https://github.com/noritaka1166/vscode-npm-dependency-manager">
+    <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source code">
+  </a>
 </p>
 
 ---
