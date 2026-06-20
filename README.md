@@ -90,7 +90,7 @@ I built it to make dependency maintenance easier, faster, and closer to everyday
 </p>
 
 <p align="center">
-  <img alt="GitHub trophies" src="https://github-profile-trophy.vercel.app/?username=noritaka1166&theme=onedark&column=7&margin-w=8&margin-h=8&no-frame=true" />
+  <img alt="GitHub trophies" src="https://github-profile-trophy-unserori.vercel.app/?username=noritaka1166&theme=onedark&column=7&margin-w=8&margin-h=8&no-frame=true" />
 </p>
 
 ---
