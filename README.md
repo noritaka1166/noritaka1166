@@ -70,7 +70,7 @@
 
 ---
 
-## Published Extension
+## VS Code Extensions
 
 ### npm-dependency-manager
 
@@ -82,6 +82,18 @@ I built it to make dependency maintenance easier, faster, and closer to everyday
     <img src="https://img.shields.io/badge/Open_in-VS_Code_Marketplace-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Open in VS Code Marketplace">
   </a>
   <a href="https://github.com/noritaka1166/vscode-npm-dependency-manager">
+    <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source code">
+  </a>
+</p>
+
+### mobile-emulator-manager
+
+A VS Code extension for managing mobile emulators from the editor.
+Currently in development, focused on making mobile app testing workflows smoother.
+
+<p>
+  <img src="https://img.shields.io/badge/Status-In_Development-f59e0b?style=for-the-badge" alt="In development">
+  <a href="https://github.com/noritaka1166/vscode-mobile-emulator-manager">
     <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source code">
   </a>
 </p>
