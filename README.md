@@ -23,6 +23,9 @@
   <a href="https://marketplace.visualstudio.com/items?itemName=noritaka1166.npm-dependency-manager">
     <img src="https://img.shields.io/badge/VS%20Code-Extension-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code extension">
   </a>
+  <a href="https://zenn.dev/noritaka1166">
+    <img src="https://img.shields.io/badge/Zenn-3EA8FF?style=for-the-badge&logo=zenn&logoColor=white" alt="Zenn">
+  </a>
   <img src="https://komarev.com/ghpvc/?username=noritaka1166&style=for-the-badge&color=blue" alt="Profile views">
 </p>
 
