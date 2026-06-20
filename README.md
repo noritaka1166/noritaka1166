@@ -26,6 +26,9 @@
   <a href="https://zenn.dev/noritaka1166">
     <img src="https://img.shields.io/badge/Zenn-3EA8FF?style=for-the-badge&logo=zenn&logoColor=white" alt="Zenn">
   </a>
+  <a href="https://dev.to/noritaka1166">
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="dev.to">
+  </a>
   <img src="https://komarev.com/ghpvc/?username=noritaka1166&style=for-the-badge&color=blue" alt="Profile views">
 </p>
 
