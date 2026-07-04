@@ -95,7 +95,9 @@ A VS Code extension for managing mobile emulators from the editor.
 Currently in development, focused on making mobile app testing workflows smoother.
 
 <p>
-  <img src="https://img.shields.io/badge/Status-In_Development-f59e0b?style=for-the-badge" alt="In development">
+  <a href="https://marketplace.visualstudio.com/items?itemName=noritaka1166.mobile-emulator-manager">
+    <img src="https://img.shields.io/badge/Open_in-VS_Code_Marketplace-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Open in VS Code Marketplace">
+  </a>
   <a href="https://github.com/noritaka1166/vscode-mobile-emulator-manager">
     <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source code">
   </a>
@@ -250,7 +252,6 @@ I like contributing small, practical improvements to projects I use or care abou
 - **microsoft**
   - [edit](https://github.com/microsoft/edit/pulls?q=is%3Apr+author%3Anoritaka1166)
   - [playwright](https://github.com/microsoft/playwright/pulls?q=is%3Apr+author%3Anoritaka1166)
-  - [playwright.dev](https://github.com/microsoft/playwright.dev/pulls?q=is%3Apr+author%3Anoritaka1166)
   - [vscode-eslint](https://github.com/microsoft/vscode-eslint/pulls?q=is%3Apr+author%3Anoritaka1166)
 - **mizchi**
   - [similarity](https://github.com/mizchi/similarity/pulls?q=is%3Apr+author%3Anoritaka1166)
@@ -260,7 +261,6 @@ I like contributing small, practical improvements to projects I use or care abou
   - [data](https://github.com/mswjs/data/pulls?q=is%3Apr+author%3Anoritaka1166)
   - [msw](https://github.com/mswjs/msw/pulls?q=is%3Apr+author%3Anoritaka1166)
   - [mswjs.io](https://github.com/mswjs/mswjs.io/pulls?q=is%3Apr+author%3Anoritaka1166)
-  - [playwright](https://github.com/mswjs/playwright/pulls?q=is%3Apr+author%3Anoritaka1166)
   - [source](https://github.com/mswjs/source/pulls?q=is%3Apr+author%3Anoritaka1166)
 - **mui**
   - [material-ui](https://github.com/mui/material-ui/pulls?q=is%3Apr+author%3Anoritaka1166)
@@ -336,8 +336,6 @@ I like contributing small, practical improvements to projects I use or care abou
   - [webpack-sources](https://github.com/webpack/webpack-sources/pulls?q=is%3Apr+author%3Anoritaka1166)
 - **wojtekmaj**
   - [react-pdf](https://github.com/wojtekmaj/react-pdf/pulls?q=is%3Apr+author%3Anoritaka1166)
-- **yargs**
-  - [yargs](https://github.com/yargs/yargs/pulls?q=is%3Apr+author%3Anoritaka1166)
 - **yoshiko-pg**
   - [difit](https://github.com/yoshiko-pg/difit/pulls?q=is%3Apr+author%3Anoritaka1166)
 <!-- CONTRIBUTIONS:END -->
