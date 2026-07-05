@@ -252,6 +252,7 @@ I like contributing small, practical improvements to projects I use or care abou
 - **microsoft**
   - [edit](https://github.com/microsoft/edit/pulls?q=is%3Apr+author%3Anoritaka1166)
   - [playwright](https://github.com/microsoft/playwright/pulls?q=is%3Apr+author%3Anoritaka1166)
+  - [playwright.dev](https://github.com/microsoft/playwright.dev/pulls?q=is%3Apr+author%3Anoritaka1166)
   - [vscode-eslint](https://github.com/microsoft/vscode-eslint/pulls?q=is%3Apr+author%3Anoritaka1166)
 - **mizchi**
   - [similarity](https://github.com/mizchi/similarity/pulls?q=is%3Apr+author%3Anoritaka1166)
@@ -261,6 +262,7 @@ I like contributing small, practical improvements to projects I use or care abou
   - [data](https://github.com/mswjs/data/pulls?q=is%3Apr+author%3Anoritaka1166)
   - [msw](https://github.com/mswjs/msw/pulls?q=is%3Apr+author%3Anoritaka1166)
   - [mswjs.io](https://github.com/mswjs/mswjs.io/pulls?q=is%3Apr+author%3Anoritaka1166)
+  - [playwright](https://github.com/mswjs/playwright/pulls?q=is%3Apr+author%3Anoritaka1166)
   - [source](https://github.com/mswjs/source/pulls?q=is%3Apr+author%3Anoritaka1166)
 - **mui**
   - [material-ui](https://github.com/mui/material-ui/pulls?q=is%3Apr+author%3Anoritaka1166)
@@ -287,6 +289,8 @@ I like contributing small, practical improvements to projects I use or care abou
   - [Rectangle](https://github.com/rxhanson/Rectangle/pulls?q=is%3Apr+author%3Anoritaka1166)
 - **secretlint**
   - [secretlint](https://github.com/secretlint/secretlint/pulls?q=is%3Apr+author%3Anoritaka1166)
+- **sidorares**
+  - [node-mysql2](https://github.com/sidorares/node-mysql2/pulls?q=is%3Apr+author%3Anoritaka1166)
 - **statelyai**
   - [xstate](https://github.com/statelyai/xstate/pulls?q=is%3Apr+author%3Anoritaka1166)
 - **stripe**
@@ -336,6 +340,8 @@ I like contributing small, practical improvements to projects I use or care abou
   - [webpack-sources](https://github.com/webpack/webpack-sources/pulls?q=is%3Apr+author%3Anoritaka1166)
 - **wojtekmaj**
   - [react-pdf](https://github.com/wojtekmaj/react-pdf/pulls?q=is%3Apr+author%3Anoritaka1166)
+- **yargs**
+  - [yargs](https://github.com/yargs/yargs/pulls?q=is%3Apr+author%3Anoritaka1166)
 - **yoshiko-pg**
   - [difit](https://github.com/yoshiko-pg/difit/pulls?q=is%3Apr+author%3Anoritaka1166)
 <!-- CONTRIBUTIONS:END -->
