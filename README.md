@@ -286,6 +286,8 @@ I like contributing small, practical improvements to projects I use or care abou
   - [graphai](https://github.com/receptron/graphai/pulls?q=is%3Apr+author%3Anoritaka1166)
   - [mulmocast-app](https://github.com/receptron/mulmocast-app/pulls?q=is%3Apr+author%3Anoritaka1166)
   - [mulmocast-cli](https://github.com/receptron/mulmocast-cli/pulls?q=is%3Apr+author%3Anoritaka1166)
+- **redhat-developer**
+  - [vscode-yaml](https://github.com/redhat-developer/vscode-yaml/pulls?q=is%3Apr+author%3Anoritaka1166)
 - **rxhanson**
   - [Rectangle](https://github.com/rxhanson/Rectangle/pulls?q=is%3Apr+author%3Anoritaka1166)
 - **secretlint**
