@@ -20,7 +20,7 @@
   <a href="https://github.com/pulls?q=is%3Apr+author%3Anoritaka1166">
     <img src="https://img.shields.io/badge/OSS-Contributor-2ea44f?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="OSS contributor">
   </a>
-  <a href="https://marketplace.visualstudio.com/items?itemName=noritaka1166.npm-dependency-manager">
+  <a href="https://marketplace.visualstudio.com/publishers/noritaka1166">
     <img src="https://img.shields.io/badge/VS%20Code-Extension-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code extension">
   </a>
   <a href="https://zenn.dev/noritaka1166">
