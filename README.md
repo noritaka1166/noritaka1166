@@ -89,6 +89,16 @@ I built it to make dependency maintenance easier, faster, and closer to everyday
   </a>
 </p>
 
+### path-copy
+
+A VS Code extension for copying file paths directly from the editor.
+
+<p>
+  <a href="https://marketplace.visualstudio.com/items?itemName=noritaka1166.path-copy">
+    <img src="https://img.shields.io/badge/Open_in-VS_Code_Marketplace-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Open in VS Code Marketplace">
+  </a>
+</p>
+
 ### mobile-emulator-manager
 
 A VS Code extension for managing mobile emulators from the editor.
