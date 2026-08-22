@@ -214,6 +214,8 @@ I like contributing small, practical improvements to projects I use or care abou
 - **dotenvx**
   - [dotenvx](https://github.com/dotenvx/dotenvx/pulls?q=is%3Apr+author%3Anoritaka1166)
   - [dotenvx.github.io](https://github.com/dotenvx/dotenvx.github.io/pulls?q=is%3Apr+author%3Anoritaka1166)
+- **dougle**
+  - [aws-vpn-tab-close](https://github.com/dougle/aws-vpn-tab-close/pulls?q=is%3Apr+author%3Anoritaka1166)
 - **editorconfig**
   - [editorconfig-vscode](https://github.com/editorconfig/editorconfig-vscode/pulls?q=is%3Apr+author%3Anoritaka1166)
 - **electric-sql**
