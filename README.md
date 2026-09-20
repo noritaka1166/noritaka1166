@@ -102,6 +102,19 @@ A VS Code extension for copying file paths directly from the editor.
   </a>
 </p>
 
+### appium-inspector-bridge
+
+A VS Code extension for bridging Appium Inspector with your development workflow.
+
+<p>
+  <a href="https://marketplace.visualstudio.com/items?itemName=noritaka1166.appium-inspector-bridge">
+    <img src="https://img.shields.io/badge/Open_in-VS_Code_Marketplace-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Open in VS Code Marketplace">
+  </a>
+  <a href="https://github.com/noritaka1166/vscode-appium-inspector-bridge">
+    <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source code">
+  </a>
+</p>
+
 ### mobile-emulator-manager
 
 A VS Code extension for managing mobile emulators from the editor.
