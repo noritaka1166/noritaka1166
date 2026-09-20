@@ -97,6 +97,9 @@ A VS Code extension for copying file paths directly from the editor.
   <a href="https://marketplace.visualstudio.com/items?itemName=noritaka1166.path-copy">
     <img src="https://img.shields.io/badge/Open_in-VS_Code_Marketplace-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Open in VS Code Marketplace">
   </a>
+  <a href="https://github.com/noritaka1166/vscode-path-copy">
+    <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source code">
+  </a>
 </p>
 
 ### mobile-emulator-manager
