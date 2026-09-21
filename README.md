@@ -261,6 +261,8 @@ I like contributing small, practical improvements to projects I use or care abou
   - [istanbuljs](https://github.com/istanbuljs/istanbuljs/pulls?q=is%3Apr+author%3Anoritaka1166)
 - **janisdd**
   - [vscode-edit-csv](https://github.com/janisdd/vscode-edit-csv/pulls?q=is%3Apr+author%3Anoritaka1166)
+- **jest-community**
+  - [eslint-plugin-jest](https://github.com/jest-community/eslint-plugin-jest/pulls?q=is%3Apr+author%3Anoritaka1166)
 - **jestjs**
   - [jest](https://github.com/jestjs/jest/pulls?q=is%3Apr+author%3Anoritaka1166)
 - **js-primer**
@@ -360,6 +362,7 @@ I like contributing small, practical improvements to projects I use or care abou
   - [ansis](https://github.com/webdiscus/ansis/pulls?q=is%3Apr+author%3Anoritaka1166)
 - **webdriverio**
   - [expect-webdriverio](https://github.com/webdriverio/expect-webdriverio/pulls?q=is%3Apr+author%3Anoritaka1166)
+  - [guinea-pig](https://github.com/webdriverio/guinea-pig/pulls?q=is%3Apr+author%3Anoritaka1166)
   - [visual-testing](https://github.com/webdriverio/visual-testing/pulls?q=is%3Apr+author%3Anoritaka1166)
   - [vscode-webdriverio](https://github.com/webdriverio/vscode-webdriverio/pulls?q=is%3Apr+author%3Anoritaka1166)
   - [webdriverio](https://github.com/webdriverio/webdriverio/pulls?q=is%3Apr+author%3Anoritaka1166)
