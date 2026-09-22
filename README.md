@@ -262,7 +262,9 @@ I like contributing small, practical improvements to projects I use or care abou
 - **janisdd**
   - [vscode-edit-csv](https://github.com/janisdd/vscode-edit-csv/pulls?q=is%3Apr+author%3Anoritaka1166)
 - **jest-community**
+  - [awesome-jest](https://github.com/jest-community/awesome-jest/pulls?q=is%3Apr+author%3Anoritaka1166)
   - [eslint-plugin-jest](https://github.com/jest-community/eslint-plugin-jest/pulls?q=is%3Apr+author%3Anoritaka1166)
+  - [jest-extended](https://github.com/jest-community/jest-extended/pulls?q=is%3Apr+author%3Anoritaka1166)
 - **jestjs**
   - [jest](https://github.com/jestjs/jest/pulls?q=is%3Apr+author%3Anoritaka1166)
 - **js-primer**
