@@ -1,0 +1,102 @@
+﻿repository,pr_number,title,created_at,state,merged,merged_at,closed_at,url
+vitest-dev/eslint-plugin-vitest,967,chore: remove unused tsx devDependency,2026-09-23T15:32:35Z,open,false,,,https://github.com/vitest-dev/eslint-plugin-vitest/pull/967
+vitest-dev/eslint-plugin-vitest,966,docs: clarify maxNumberOfTopLevelDescribes option,2026-09-23T15:05:40Z,open,false,,,https://github.com/vitest-dev/eslint-plugin-vitest/pull/966
+brianc/node-postgres,3793,chore(pg-pool): remove unused bluebird dev dependency,2026-09-23T14:39:24Z,open,false,,,https://github.com/brianc/node-postgres/pull/3793
+brianc/node-postgres,3792,chore(pg-pool): remove lodash dependency,2026-09-23T14:25:18Z,open,false,,,https://github.com/brianc/node-postgres/pull/3792
+brianc/node-postgres,3791,chore(pg-query-stream): remove unused eslint-plugin-promise,2026-09-23T14:06:22Z,open,false,,,https://github.com/brianc/node-postgres/pull/3791
+brianc/node-postgres,3790,chore(pg-connection-string): remove unused istanbul dependency,2026-09-23T13:30:48Z,closed,true,2026-09-24T05:31:17Z,2026-09-24T05:31:17Z,https://github.com/brianc/node-postgres/pull/3790
+team-mirai-volunteer/action-board,2296,feat: Xフォローミッションにフォローボタンを追加,2026-09-22T16:36:19Z,open,false,,,https://github.com/team-mirai-volunteer/action-board/pull/2296
+team-mirai-volunteer/action-board,2295,chore: 未使用のcanvas-confetti依存を削除,2026-09-22T09:56:54Z,open,false,,,https://github.com/team-mirai-volunteer/action-board/pull/2295
+team-mirai/marumie,1490,chore(webapp): 使用されていない optimizeCss 設定と依存関係を削除,2026-09-22T08:16:19Z,closed,true,2026-09-23T11:15:40Z,2026-09-23T11:15:41Z,https://github.com/team-mirai/marumie/pull/1490
+team-mirai/marumie,1489,chore: Biomeのlint警告を解消,2026-09-22T07:26:34Z,closed,false,,2026-09-22T07:30:15Z,https://github.com/team-mirai/marumie/pull/1489
+team-mirai/marumie,1488,fix: TikTokの公式アカウントリンクを更新,2026-09-22T07:03:20Z,closed,true,2026-09-23T11:14:43Z,2026-09-23T11:14:43Z,https://github.com/team-mirai/marumie/pull/1488
+team-mirai/mirai-gikai,989,SNSリンク更新し、noteとthreadsを追加,2026-09-22T06:36:26Z,closed,true,2026-09-22T06:46:34Z,2026-09-22T06:46:34Z,https://github.com/team-mirai/mirai-gikai/pull/989
+jest-community/awesome-jest,147,chore: remove deprecated and broken links,2026-09-21T13:22:25Z,closed,true,2026-09-21T18:25:40Z,2026-09-21T18:25:41Z,https://github.com/jest-community/awesome-jest/pull/147
+jest-community/eslint-plugin-jest-extended,309,docs: fix toBeInstanceOf rule examples,2026-09-21T10:59:08Z,open,false,,,https://github.com/jest-community/eslint-plugin-jest-extended/pull/309
+jest-community/eslint-plugin-jest-extended,308,docs: fix Array.isArray typo,2026-09-21T10:07:12Z,open,false,,,https://github.com/jest-community/eslint-plugin-jest-extended/pull/308
+jest-community/jest-extended,968,chore(website): update Twitter links to X,2026-09-21T09:39:35Z,closed,true,2026-09-21T17:16:24Z,2026-09-21T17:16:24Z,https://github.com/jest-community/jest-extended/pull/968
+jest-community/jest-extended,967,docs: fix typo in contributing guide,2026-09-21T08:37:26Z,closed,true,2026-09-21T17:15:58Z,2026-09-21T17:15:58Z,https://github.com/jest-community/jest-extended/pull/967
+jest-community/eslint-plugin-jest,2024,chore: migrate Babel config to TypeScript,2026-09-21T02:27:44Z,open,false,,,https://github.com/jest-community/eslint-plugin-jest/pull/2024
+jest-community/eslint-plugin-jest,2023,docs(no-unneeded-async-expect-function): address typo,2026-09-21T01:57:26Z,closed,true,2026-09-21T02:36:28Z,2026-09-21T02:36:28Z,https://github.com/jest-community/eslint-plugin-jest/pull/2023
+jest-community/eslint-plugin-jest,2022,chore: use explicit false for Codecov comments,2026-09-21T01:48:53Z,open,false,,,https://github.com/jest-community/eslint-plugin-jest/pull/2022
+appium/appium-flutter-driver,900,chore(finder): migrate from TSLint to ESLint,2026-07-22T16:12:03Z,closed,false,,2026-08-05T14:58:42Z,https://github.com/appium/appium-flutter-driver/pull/900
+appium/appium-flutter-driver,899,chore(finder): remove obsolete @types/expect,2026-07-21T15:31:10Z,closed,true,2026-07-22T03:03:23Z,2026-07-22T03:03:23Z,https://github.com/appium/appium-flutter-driver/pull/899
+brianc/node-postgres,3715,fix(lint): support TypeScript declaration merging,2026-07-21T05:42:47Z,closed,true,2026-07-21T15:38:21Z,2026-07-21T15:38:21Z,https://github.com/brianc/node-postgres/pull/3715
+brianc/node-postgres,3714,ci: run lint on Node.js 22,2026-07-21T05:28:29Z,closed,true,2026-08-11T06:18:50Z,2026-08-11T06:18:50Z,https://github.com/brianc/node-postgres/pull/3714
+brianc/node-postgres,3713,chore: remove unused eslint-plugin-node,2026-07-21T05:16:37Z,closed,true,2026-08-11T07:30:39Z,2026-08-11T07:30:39Z,https://github.com/brianc/node-postgres/pull/3713
+digitaldemocracy2030/idobata,506,ci: チェックワークフローで npm ci を使用する,2026-07-21T03:39:14Z,open,false,,,https://github.com/digitaldemocracy2030/idobata/pull/506
+team-mirai/marumie,1218,chore(ci): CIの依存関係をロックファイルで固定,2026-07-21T03:18:23Z,closed,false,,2026-08-24T13:42:51Z,https://github.com/team-mirai/marumie/pull/1218
+brianc/node-pg-copy-streams,174,docs: clarify pool.query cannot be used with pg-copy-streams,2026-07-19T17:55:17Z,closed,true,2026-07-20T17:20:59Z,2026-07-20T17:20:59Z,https://github.com/brianc/node-pg-copy-streams/pull/174
+webpack/webpack-dev-server,5709,chore: remove unused @types/node-forge,2026-07-19T11:11:45Z,closed,false,,2026-07-22T15:36:45Z,https://github.com/webpack/webpack-dev-server/pull/5709
+webpack/webpack-cli,4810,chore: remove unused cross-env dependency,2026-07-19T03:29:41Z,closed,true,2026-07-20T16:09:47Z,2026-07-20T16:09:47Z,https://github.com/webpack/webpack-cli/pull/4810
+SeleniumHQ/seleniumhq.github.io,2727,Improve Japanese Selenium details documentation,2026-07-18T01:01:05Z,closed,true,2026-08-03T12:32:38Z,2026-08-03T12:32:39Z,https://github.com/SeleniumHQ/seleniumhq.github.io/pull/2727
+SeleniumHQ/seleniumhq.github.io,2726,Fix Japanese components documentation,2026-07-17T16:24:31Z,closed,true,2026-07-23T09:11:37Z,2026-07-23T09:11:37Z,https://github.com/SeleniumHQ/seleniumhq.github.io/pull/2726
+SeleniumHQ/seleniumhq.github.io,2725,Fix Japanese wording in documentation overview,2026-07-17T15:44:38Z,closed,true,2026-07-23T09:13:54Z,2026-07-23T09:13:54Z,https://github.com/SeleniumHQ/seleniumhq.github.io/pull/2725
+SeleniumHQ/seleniumhq.github.io,2710,Fix Japanese wording in documentation index,2026-07-15T20:53:52Z,closed,true,2026-07-17T10:56:13Z,2026-07-17T10:56:13Z,https://github.com/SeleniumHQ/seleniumhq.github.io/pull/2710
+SeleniumHQ/seleniumhq.github.io,2706,docs: fix Chrome documentation references,2026-07-15T13:52:19Z,closed,true,2026-07-17T10:58:42Z,2026-07-17T10:58:42Z,https://github.com/SeleniumHQ/seleniumhq.github.io/pull/2706
+SeleniumHQ/seleniumhq.github.io,2701,fix: update Python test command documentation links,2026-07-14T22:57:25Z,closed,true,2026-07-17T11:01:56Z,2026-07-17T11:01:56Z,https://github.com/SeleniumHQ/seleniumhq.github.io/pull/2701
+SeleniumHQ/seleniumhq.github.io,2700,Fix Python run command references in translated docs,2026-07-14T14:19:06Z,closed,true,2026-07-14T15:54:21Z,2026-07-14T15:54:21Z,https://github.com/SeleniumHQ/seleniumhq.github.io/pull/2700
+SeleniumHQ/seleniumhq.github.io,2698,Fix Japanese wording in install library documentation,2026-07-14T13:41:44Z,closed,true,2026-07-14T16:06:12Z,2026-07-14T16:06:13Z,https://github.com/SeleniumHQ/seleniumhq.github.io/pull/2698
+SeleniumHQ/seleniumhq.github.io,2696,Fix Japanese translation for fresh browser per test documentation,2026-07-14T13:30:14Z,closed,true,2026-07-17T11:12:26Z,2026-07-17T11:12:26Z,https://github.com/SeleniumHQ/seleniumhq.github.io/pull/2696
+SeleniumHQ/seleniumhq.github.io,2694,Fix Japanese translation for using Selenium documentation,2026-07-13T15:51:40Z,closed,true,2026-07-14T13:11:51Z,2026-07-14T13:11:51Z,https://github.com/SeleniumHQ/seleniumhq.github.io/pull/2694
+SeleniumHQ/seleniumhq.github.io,2693,[ja] Fix contributing page formatting and typo,2026-07-13T15:29:03Z,closed,true,2026-07-14T12:55:00Z,2026-07-14T12:55:01Z,https://github.com/SeleniumHQ/seleniumhq.github.io/pull/2693
+SeleniumHQ/seleniumhq.github.io,2692,Fix typos in page object model docs,2026-07-13T15:06:46Z,closed,true,2026-07-14T12:58:35Z,2026-07-14T12:58:35Z,https://github.com/SeleniumHQ/seleniumhq.github.io/pull/2692
+SeleniumHQ/seleniumhq.github.io,2691,[ja] Translate Command Listeners documentation,2026-07-13T14:33:04Z,closed,true,2026-07-14T13:06:39Z,2026-07-14T13:06:40Z,https://github.com/SeleniumHQ/seleniumhq.github.io/pull/2691
+redhat-developer/vscode-yaml,1268,Fix typos in contributing guide,2026-07-12T15:13:15Z,closed,true,2026-07-14T19:00:35Z,2026-07-14T19:00:35Z,https://github.com/redhat-developer/vscode-yaml/pull/1268
+jest-community/vscode-jest,1288,chore: remove unused eslint-plugin-jsdoc,2026-07-12T15:03:44Z,open,false,,,https://github.com/jest-community/vscode-jest/pull/1288
+SeleniumHQ/seleniumhq.github.io,2688,Translate SameSite Cookie note into Japanese,2026-07-12T12:16:57Z,closed,true,2026-07-12T17:23:17Z,2026-07-12T17:23:17Z,https://github.com/SeleniumHQ/seleniumhq.github.io/pull/2688
+SeleniumHQ/seleniumhq.github.io,2687,[ja] Fix OpenTelemetry configuration link formatting,2026-07-12T12:02:02Z,closed,true,2026-07-12T17:33:06Z,2026-07-12T17:33:06Z,https://github.com/SeleniumHQ/seleniumhq.github.io/pull/2687
+SeleniumHQ/seleniumhq.github.io,2686,Translate Support Features content into Japanese,2026-07-12T11:56:48Z,closed,true,2026-07-12T17:38:17Z,2026-07-12T17:38:17Z,https://github.com/SeleniumHQ/seleniumhq.github.io/pull/2686
+SeleniumHQ/seleniumhq.github.io,2685,Translate Troubleshooting content into Japanese,2026-07-12T11:48:26Z,closed,true,2026-07-12T17:43:37Z,2026-07-12T17:43:37Z,https://github.com/SeleniumHQ/seleniumhq.github.io/pull/2685
+SeleniumHQ/seleniumhq.github.io,2684,Translate File Upload documentation into Japanese,2026-07-12T07:05:20Z,closed,true,2026-07-12T17:58:38Z,2026-07-12T17:58:38Z,https://github.com/SeleniumHQ/seleniumhq.github.io/pull/2684
+SeleniumHQ/seleniumhq.github.io,2683,Translate Safari documentation into Japanese,2026-07-12T06:15:26Z,closed,true,2026-07-14T13:03:03Z,2026-07-14T13:03:03Z,https://github.com/SeleniumHQ/seleniumhq.github.io/pull/2683
+SeleniumHQ/seleniumhq.github.io,2682,[ja] Translate Avoid Sharing State guidance,2026-07-12T04:56:50Z,closed,true,2026-07-12T19:03:55Z,2026-07-12T19:03:55Z,https://github.com/SeleniumHQ/seleniumhq.github.io/pull/2682
+hediet/vscode-drawio,510,fix: correct spelling mistakes in documentation and liveshare plugin,2026-07-11T16:22:34Z,open,false,,,https://github.com/hediet/vscode-drawio/pull/510
+jeff-hykin/code-eol,18,chore: fix typos in documentation and comments,2026-07-11T15:52:11Z,open,false,,,https://github.com/jeff-hykin/code-eol/pull/18
+sidorares/node-mysql2,4372,docs(website): fix typos in documentation,2026-07-05T03:40:10Z,closed,true,2026-07-05T03:44:39Z,2026-07-05T03:44:39Z,https://github.com/sidorares/node-mysql2/pull/4372
+sidorares/node-mysql2,4371,test: fix typos in test comments,2026-07-05T03:15:17Z,closed,true,2026-07-05T03:38:35Z,2026-07-05T03:38:35Z,https://github.com/sidorares/node-mysql2/pull/4371
+sidorares/node-mysql2,4370,docs(lib): fix typos in comments,2026-07-04T07:26:06Z,closed,true,2026-07-04T17:28:51Z,2026-07-04T17:28:51Z,https://github.com/sidorares/node-mysql2/pull/4370
+faker-js/faker,3922,feat(locale): add 060 Japanese mobile phone number formats,2026-06-28T14:09:45Z,closed,true,2026-06-30T21:17:01Z,2026-06-30T21:17:01Z,https://github.com/faker-js/faker/pull/3922
+appium/appium-xcuitest-driver,2892,chore(deps-dev): remove unused mocha-junit-reporter,2026-06-28T13:34:59Z,closed,true,2026-06-29T08:02:33Z,2026-06-29T08:02:33Z,https://github.com/appium/appium-xcuitest-driver/pull/2892
+appium/appium-xcuitest-driver,2891,chore(deps): remove unused moment dependency,2026-06-28T13:20:13Z,closed,false,,2026-07-08T08:39:26Z,https://github.com/appium/appium-xcuitest-driver/pull/2891
+appium/appium-android-driver,1069,chore: Fix Prettier formatting,2026-06-27T15:07:33Z,closed,true,2026-06-27T15:08:53Z,2026-06-27T15:08:53Z,https://github.com/appium/appium-android-driver/pull/1069
+appium/appium-android-driver,1068,ci: use shared PR title workflow,2026-06-27T15:02:56Z,closed,true,2026-06-27T15:10:59Z,2026-06-27T15:10:59Z,https://github.com/appium/appium-android-driver/pull/1068
+appium/appium-android-driver,1067,chore: remove unused XML test dependencies,2026-06-27T14:46:38Z,closed,true,2026-06-27T15:14:32Z,2026-06-27T15:14:32Z,https://github.com/appium/appium-android-driver/pull/1067
+SeleniumHQ/seleniumhq.github.io,2672,Translate Japanese style guide documentation,2026-06-22T22:03:11Z,closed,true,2026-07-11T22:43:04Z,2026-07-11T22:43:04Z,https://github.com/SeleniumHQ/seleniumhq.github.io/pull/2672
+SeleniumHQ/seleniumhq.github.io,2670,Translate remaining Japanese contributing docs text,2026-06-22T20:39:35Z,closed,true,2026-07-11T22:35:20Z,2026-07-11T22:35:20Z,https://github.com/SeleniumHQ/seleniumhq.github.io/pull/2670
+SeleniumHQ/seleniumhq.github.io,2669,[ja] Translate copyright page,2026-06-22T13:20:03Z,closed,true,2026-07-11T22:10:30Z,2026-07-11T22:10:30Z,https://github.com/SeleniumHQ/seleniumhq.github.io/pull/2669
+SeleniumHQ/seleniumhq.github.io,2668,Fix typos in IE driver server docs,2026-06-22T12:54:53Z,closed,true,2026-07-11T21:53:19Z,2026-07-11T21:53:19Z,https://github.com/SeleniumHQ/seleniumhq.github.io/pull/2668
+SeleniumHQ/seleniumhq.github.io,2667,Fix waits link text in Japanese first script docs,2026-06-22T12:38:10Z,closed,true,2026-06-22T12:49:23Z,2026-06-22T12:49:23Z,https://github.com/SeleniumHQ/seleniumhq.github.io/pull/2667
+microsoft/playwright.dev,2060,docs: update Twitter links to X,2026-06-21T04:34:03Z,closed,true,2026-06-22T14:59:00Z,2026-06-22T14:59:00Z,https://github.com/microsoft/playwright.dev/pull/2060
+SeleniumHQ/seleniumhq.github.io,2665,Remove duplicate front matter keys from Japanese legacy docs,2026-06-20T16:06:46Z,closed,true,2026-06-22T08:22:40Z,2026-06-22T08:22:40Z,https://github.com/SeleniumHQ/seleniumhq.github.io/pull/2665
+SeleniumHQ/seleniumhq.github.io,2664,Translate Japanese homepage read-more links,2026-06-20T15:41:43Z,closed,true,2026-06-22T08:27:52Z,2026-06-22T08:27:52Z,https://github.com/SeleniumHQ/seleniumhq.github.io/pull/2664
+SeleniumHQ/seleniumhq.github.io,2663,"fix: correct typo in ""Downloading a file"" section across multiple language documentation files",2026-06-20T12:58:36Z,closed,true,2026-06-22T08:56:10Z,2026-06-22T08:56:10Z,https://github.com/SeleniumHQ/seleniumhq.github.io/pull/2663
+SeleniumHQ/seleniumhq.github.io,2662,fix: correct typos in history documentation,2026-06-20T12:24:50Z,closed,true,2026-06-22T08:58:38Z,2026-06-22T08:58:39Z,https://github.com/SeleniumHQ/seleniumhq.github.io/pull/2662
+DefinitelyTyped/DefinitelyTyped,75151,Sync Japanese README with current docs,2026-06-20T11:37:29Z,closed,true,2026-06-24T16:42:28Z,2026-06-24T16:42:29Z,https://github.com/DefinitelyTyped/DefinitelyTyped/pull/75151
+DefinitelyTyped/DefinitelyTyped,75150,chore: migrate husky to v9,2026-06-20T10:20:52Z,closed,true,2026-06-24T16:39:20Z,2026-06-24T16:39:20Z,https://github.com/DefinitelyTyped/DefinitelyTyped/pull/75150
+mswjs/msw-storybook-addon,190,chore: replace npm-run-all with npm-run-all2,2026-06-20T05:33:53Z,closed,false,,2026-07-24T09:24:18Z,https://github.com/mswjs/msw-storybook-addon/pull/190
+mswjs/msw-storybook-addon,189,chore: fix typos across docs and comments,2026-06-20T05:06:07Z,closed,false,,2026-07-24T09:24:56Z,https://github.com/mswjs/msw-storybook-addon/pull/189
+mswjs/playwright,50,docs: fix typo in fixture comment,2026-06-20T04:52:50Z,closed,true,2026-06-21T08:48:32Z,2026-06-21T08:48:32Z,https://github.com/mswjs/playwright/pull/50
+mswjs/playwright,49,ci: enforce frozen pnpm lockfile,2026-06-20T04:48:51Z,open,false,,,https://github.com/mswjs/playwright/pull/49
+Contrast-Security-OSS/contrast-sca-action,52,Fix typo in README.md,2026-06-17T16:05:16Z,open,false,,,https://github.com/Contrast-Security-OSS/contrast-sca-action/pull/52
+mswjs/source,96,chore: update GitHub Actions to use latest action versions,2026-06-15T22:00:10Z,open,false,,,https://github.com/mswjs/source/pull/96
+mswjs/http-middleware,54,chore: update GitHub Actions to use latest versions,2026-06-14T21:23:22Z,open,false,,,https://github.com/mswjs/http-middleware/pull/54
+webdriverio/guinea-pig,12,ci: update deploy workflow to node 22 and use npm ci,2026-06-14T14:05:50Z,closed,true,2026-09-20T14:07:15Z,2026-09-20T14:07:15Z,https://github.com/webdriverio/guinea-pig/pull/12
+webdriverio/vscode-webdriverio,180,chore: update VS Code js/ts autoDetect settings,2026-06-14T13:11:02Z,closed,false,,2026-06-22T01:01:32Z,https://github.com/webdriverio/vscode-webdriverio/pull/180
+ts-safeql/safeql,486,chore: update GitHub Actions versions,2026-06-14T02:07:37Z,open,false,,,https://github.com/ts-safeql/safeql/pull/486
+kelektiv/node.bcrypt.js,1227,chore(ci): bump GitHub Actions versions,2026-06-14T01:46:35Z,open,false,,,https://github.com/kelektiv/node.bcrypt.js/pull/1227
+SeleniumHQ/seleniumhq.github.io,2661,Replace Twitter icon with X,2026-06-13T23:42:47Z,closed,true,2026-06-15T04:26:46Z,2026-06-15T04:26:46Z,https://github.com/SeleniumHQ/seleniumhq.github.io/pull/2661
+tonybaloney/vscode-pets,904,chore: Update deprecated tsc.autoDetect setting to js/ts namespace,2026-06-13T23:29:27Z,closed,true,2026-06-14T08:37:25Z,2026-06-14T08:37:25Z,https://github.com/tonybaloney/vscode-pets/pull/904
+webdriverio/expect-webdriverio,2121,chore: fix husky install deprecation warning,2026-06-13T16:46:20Z,closed,true,2026-06-14T12:16:04Z,2026-06-14T12:16:04Z,https://github.com/webdriverio/expect-webdriverio/pull/2121
+webdriverio/expect-webdriverio,2120,chore: remove shelljs dependency,2026-06-13T16:28:25Z,closed,true,2026-06-14T12:16:54Z,2026-06-14T12:16:54Z,https://github.com/webdriverio/expect-webdriverio/pull/2120
+facebook/lexical,8693,[lexical] Chore: Remove unused tmp dependency,2026-06-13T15:24:28Z,closed,true,2026-06-13T15:52:35Z,2026-06-13T15:52:35Z,https://github.com/facebook/lexical/pull/8693
+adaltas/node-csv,488,ci: use npm ci with ignored scripts,2026-06-13T06:59:58Z,closed,true,2026-09-23T09:23:13Z,2026-09-23T09:23:13Z,https://github.com/adaltas/node-csv/pull/488
+adaltas/node-csv,487,chore: update GitHub Actions to use checkout@v6 and setup-node@v6,2026-06-13T05:54:23Z,closed,true,2026-06-13T12:01:38Z,2026-06-13T12:01:38Z,https://github.com/adaltas/node-csv/pull/487
+bcomnes/npm-run-all2,237,chore: update schema version in .knip.jsonc to v6,2026-06-13T03:12:49Z,closed,true,2026-06-21T17:06:54Z,2026-06-21T17:06:54Z,https://github.com/bcomnes/npm-run-all2/pull/237
+adaltas/node-csv-docs,154,feat(gatsby): open external links in a new tab with noopener,2026-06-10T15:43:51Z,open,false,,,https://github.com/adaltas/node-csv-docs/pull/154
+adaltas/node-csv-docs,153,chore(ci): update Node.js version to 24.x and upgrade action versions,2026-06-09T23:00:10Z,closed,true,2026-06-10T06:12:09Z,2026-06-10T06:12:09Z,https://github.com/adaltas/node-csv-docs/pull/153
+adaltas/node-csv-docs,152,fix: correct typos in documentation and component names,2026-06-09T18:06:24Z,closed,true,2026-06-09T18:34:51Z,2026-06-09T18:34:51Z,https://github.com/adaltas/node-csv-docs/pull/152
+bcomnes/npm-run-all2,232,fix: update Node.js version requirements,2026-06-07T10:40:47Z,closed,true,2026-06-12T18:10:03Z,2026-06-12T18:10:03Z,https://github.com/bcomnes/npm-run-all2/pull/232
+webdriverio/webdriverio,15307,chore: remove crowdin badge and related configuration file,2026-06-07T06:19:23Z,closed,true,2026-06-08T04:28:15Z,2026-06-08T04:28:15Z,https://github.com/webdriverio/webdriverio/pull/15307
+webdriverio/webdriverio,15306,fix: correct typos in README.md for package paths,2026-06-07T05:14:40Z,closed,false,,2026-08-18T06:01:56Z,https://github.com/webdriverio/webdriverio/pull/15306
+XcodesOrg/xcodes,471,fix: correct typos in comments and documentation,2026-06-06T18:13:38Z,open,false,,,https://github.com/XcodesOrg/xcodes/pull/471
