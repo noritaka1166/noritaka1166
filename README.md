@@ -358,6 +358,7 @@ I like contributing small, practical improvements to projects I use or care abou
   - [validator.js](https://github.com/validatorjs/validator.js/pulls?q=is%3Apr+author%3Anoritaka1166)
 - **vavkamil**
   - [awesome-bugbounty-tools](https://github.com/vavkamil/awesome-bugbounty-tools/pulls?q=is%3Apr+author%3Anoritaka1166)
+  - [awesome-vulnerable-apps](https://github.com/vavkamil/awesome-vulnerable-apps/pulls?q=is%3Apr+author%3Anoritaka1166)
 - **vitest-dev**
   - [vitest](https://github.com/vitest-dev/vitest/pulls?q=is%3Apr+author%3Anoritaka1166)
 - **web-infra-dev**
