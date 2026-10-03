@@ -1,155 +1,134 @@
-<!-- Hero Section -->
+<!-- Profile banner: local assets with light and dark variants. -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/profile-header-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/profile-header-light.svg">
+  <img src="assets/profile-header-light.svg" width="1200" alt="Noritaka — Build. Test. Improve. Software engineer based in Japan, focused on development, automation, and open source.">
+</picture>
+
 <h1 align="center">
   Hi, I'm Noritaka
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32" alt="Waving hand">
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=720&lines=Software+Engineer;Test+Engineer;OSS+Contributor;Automation+%26+Developer+Tooling+Enthusiast" alt="Typing SVG">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;duration=2000&amp;pause=1000&amp;color=89DDC7&amp;center=true&amp;vCenter=true&amp;width=520&amp;height=52&amp;lines=Software+Engineer;Test+Engineer;OSS+Contributor">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;duration=2000&amp;pause=1000&amp;color=237A68&amp;center=true&amp;vCenter=true&amp;width=520&amp;height=52&amp;lines=Software+Engineer;Test+Engineer;OSS+Contributor" width="520" alt="Typing animation: Software Engineer, Test Engineer, OSS Contributor.">
+  </picture>
 </p>
 
 <p align="center">
-  <strong>Software Engineer / Test Engineer / OSS Contributor</strong><br>
-  I build, test, and improve software across web, mobile, automation, and developer tooling.
+  <strong>Software Engineer · Test Engineer · OSS Contributor</strong><br>
+  Building useful tools, improving software quality, and contributing to the projects I use.
 </p>
 
 <p align="center">
-  <a href="https://github.com/noritaka1166">
-    <img src="https://img.shields.io/github/followers/noritaka1166?label=Follow&style=for-the-badge&logo=github" alt="GitHub followers">
-  </a>
-  <a href="https://github.com/pulls?q=is%3Apr+author%3Anoritaka1166">
-    <img src="https://img.shields.io/badge/OSS-Contributor-2ea44f?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="OSS contributor">
-  </a>
-  <a href="https://marketplace.visualstudio.com/publishers/noritaka1166">
-    <img src="https://img.shields.io/badge/VS%20Code-Extension-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code extension">
-  </a>
-  <a href="https://zenn.dev/noritaka1166">
-    <img src="https://img.shields.io/badge/Zenn-3EA8FF?style=for-the-badge&logo=zenn&logoColor=white" alt="Zenn">
-  </a>
-  <a href="https://dev.to/noritaka1166">
-    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="dev.to">
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=noritaka1166&style=for-the-badge&color=blue" alt="Profile views">
+  <a href="https://github.com/noritaka1166"><img src="https://img.shields.io/github/followers/noritaka1166?label=Follow&amp;style=flat-square&amp;color=237a68&amp;logo=github" alt="Follow Noritaka on GitHub"></a>
+  <a href="https://marketplace.visualstudio.com/publishers/noritaka1166"><img src="https://img.shields.io/badge/VS_Code-Extensions-237a68?style=flat-square" alt="VS Code extensions by Noritaka"></a>
+  <a href="https://zenn.dev/noritaka1166"><img src="https://img.shields.io/badge/Zenn-Articles-3b638c?style=flat-square&amp;logo=zenn&amp;logoColor=white" alt="Read Noritaka's articles on Zenn"></a>
+  <a href="https://dev.to/noritaka1166"><img src="https://img.shields.io/badge/dev.to-Articles-3b638c?style=flat-square&amp;logo=devdotto&amp;logoColor=white" alt="Read Noritaka's articles on dev.to"></a>
+  <img src="https://komarev.com/ghpvc/?username=noritaka1166&amp;style=flat-square&amp;color=237a68" alt="Profile views">
+</p>
+
+<p align="center">
+  <a href="#about-me">About</a> &nbsp; / &nbsp;
+  <a href="#vs-code-extensions">Extensions</a> &nbsp; / &nbsp;
+  <a href="#tech-stack">Stack</a> &nbsp; / &nbsp;
+  <a href="#oss-contributions">Open source</a>
 </p>
 
 ---
 
 ## About Me
 
+I'm a Japanese engineer working across web, mobile, test automation, and developer tooling.
+I enjoy making everyday development smoother — through a useful extension, a reliable test, or a small OSS improvement.
+
+- **What I work on** — software development, test engineering, CI, and developer experience.
+- **What I'm exploring** — cloud platforms, backend frameworks, and mobile development with Kotlin and Gradle.
+- **How I contribute** — bug fixes, tests, docs, maintenance, typing, and tooling.
+- **Beyond code** — studying English to communicate better with global communities.
+
+## VS Code Extensions
+
+Small tools for everyday development and mobile testing.
+
 <table>
   <tr>
-    <td width="50%">
-      <h3>What I Do</h3>
-      <ul>
-        <li>🇯🇵 Japanese engineer working across software development and test engineering</li>
-        <li>🧪 Interested in test automation, developer experience, CI, mobile, and web tooling</li>
-        <li>🤝 Contributing to OSS through bug fixes, tests, docs, maintenance, and tooling</li>
-        <li>🗣️ Studying English and improving communication with global communities</li>
-      </ul>
+    <td width="50%" valign="top">
+      <h3>📦 npm-dependency-manager</h3>
+      <p>Manage npm dependencies from your editor and make dependency maintenance part of your everyday workflow.</p>
+      <p><sub>DEPENDENCIES · DEVELOPER TOOLS</sub></p>
+      <a href="https://marketplace.visualstudio.com/items?itemName=noritaka1166.npm-dependency-manager">Marketplace ↗</a> &nbsp; · &nbsp;
+      <a href="https://github.com/noritaka1166/vscode-npm-dependency-manager">Source ↗</a>
     </td>
-    <td width="50%">
-      <h3>Current Focus</h3>
-      <ul>
-        <li>Cloud platforms and backend frameworks</li>
-        <li>Mobile development with Kotlin and Gradle</li>
-        <li>Automation quality for web and mobile apps</li>
-        <li>Small practical improvements that help maintainers and users</li>
-      </ul>
+    <td width="50%" valign="top">
+      <h3>📋 path-copy</h3>
+      <p>Copy file paths directly from your editor with a small, focused utility.</p>
+      <p><sub>FILE PATHS · PRODUCTIVITY</sub></p>
+      <a href="https://marketplace.visualstudio.com/items?itemName=noritaka1166.path-copy">Marketplace ↗</a> &nbsp; · &nbsp;
+      <a href="https://github.com/noritaka1166/vscode-path-copy">Source ↗</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔎 appium-inspector-bridge</h3>
+      <p>Bring Appium Inspector closer to your development workflow.</p>
+      <p><sub>APPIUM · MOBILE TESTING</sub></p>
+      <a href="https://marketplace.visualstudio.com/items?itemName=noritaka1166.appium-inspector-bridge">Marketplace ↗</a> &nbsp; · &nbsp;
+      <a href="https://github.com/noritaka1166/vscode-appium-inspector-bridge">Source ↗</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📱 mobile-emulator-manager</h3>
+      <p>Manage mobile emulators from your editor for smoother mobile app testing.</p>
+      <p><sub>MOBILE TOOLING · IN DEVELOPMENT</sub></p>
+      <a href="https://marketplace.visualstudio.com/items?itemName=noritaka1166.mobile-emulator-manager">Marketplace ↗</a> &nbsp; · &nbsp;
+      <a href="https://github.com/noritaka1166/vscode-mobile-emulator-manager">Source ↗</a>
     </td>
   </tr>
 </table>
 
----
-
 ## Tech Stack
 
-### Daily Drivers
-
-[![Daily drivers](https://skillicons.dev/icons?i=js,ts,react,nodejs,express,java,git,github,gitlab,jenkins,jest,selenium,postgres,mysql,firebase,androidstudio,vscode,idea&perline=9)](https://skillicons.dev)
-
-### Learning Next
-
-[![Learning next](https://skillicons.dev/icons?i=aws,azure,gcp,gradle,kotlin,spring&perline=6)](https://skillicons.dev)
-
----
-
-## VS Code Extensions
-
-### npm-dependency-manager
-
-A VS Code extension for working with npm dependencies directly from the editor.
-I built it to make dependency maintenance easier, faster, and closer to everyday development workflows.
-
-<p>
-  <a href="https://marketplace.visualstudio.com/items?itemName=noritaka1166.npm-dependency-manager">
-    <img src="https://img.shields.io/badge/Open_in-VS_Code_Marketplace-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Open in VS Code Marketplace">
-  </a>
-  <a href="https://github.com/noritaka1166/vscode-npm-dependency-manager">
-    <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source code">
-  </a>
-</p>
-
-### path-copy
-
-A VS Code extension for copying file paths directly from the editor.
-
-<p>
-  <a href="https://marketplace.visualstudio.com/items?itemName=noritaka1166.path-copy">
-    <img src="https://img.shields.io/badge/Open_in-VS_Code_Marketplace-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Open in VS Code Marketplace">
-  </a>
-  <a href="https://github.com/noritaka1166/vscode-path-copy">
-    <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source code">
-  </a>
-</p>
-
-### appium-inspector-bridge
-
-A VS Code extension for bridging Appium Inspector with your development workflow.
-
-<p>
-  <a href="https://marketplace.visualstudio.com/items?itemName=noritaka1166.appium-inspector-bridge">
-    <img src="https://img.shields.io/badge/Open_in-VS_Code_Marketplace-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Open in VS Code Marketplace">
-  </a>
-  <a href="https://github.com/noritaka1166/vscode-appium-inspector-bridge">
-    <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source code">
-  </a>
-</p>
-
-### mobile-emulator-manager
-
-A VS Code extension for managing mobile emulators from the editor.
-Currently in development, focused on making mobile app testing workflows smoother.
-
-<p>
-  <a href="https://marketplace.visualstudio.com/items?itemName=noritaka1166.mobile-emulator-manager">
-    <img src="https://img.shields.io/badge/Open_in-VS_Code_Marketplace-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Open in VS Code Marketplace">
-  </a>
-  <a href="https://github.com/noritaka1166/vscode-mobile-emulator-manager">
-    <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source code">
-  </a>
-</p>
-
----
-
-## GitHub Activity
+| Area | Tools & technologies |
+| :--- | :--- |
+| **Web & backend** | JavaScript, TypeScript, React, Node.js, Express, Java |
+| **Testing & CI** | Jest, Selenium, Jenkins, GitHub, GitLab |
+| **Data & development** | PostgreSQL, MySQL, Firebase, Git, Android Studio, VS Code, IntelliJ IDEA |
+| **Learning next** | AWS, Azure, Google Cloud, Kotlin, Gradle, Spring |
 
 <p align="center">
-  <img alt="GitHub stats" height="165" src="https://github-readme-stats.vercel.app/api?username=noritaka1166&count_private=true&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img alt="Top languages" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noritaka1166&layout=compact&count_private=true&theme=tokyonight&hide_border=true" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,java,git,github,gitlab,jenkins,jest,selenium,postgres,mysql,firebase,androidstudio,vscode,idea&amp;perline=9" width="480" alt="Daily tools: JavaScript, TypeScript, React, Node.js, Express, Java, Git, GitHub, GitLab, Jenkins, Jest, Selenium, PostgreSQL, MySQL, Firebase, Android Studio, VS Code, and IntelliJ IDEA.">
+  </a>
 </p>
 
-<p align="center">
-  <img alt="GitHub trophies" src="https://github-profile-trophy-unserori.vercel.app/?username=noritaka1166&theme=onedark&column=7&margin-w=8&margin-h=8&no-frame=true" />
+<details>
+<summary><strong>🌱 What I'm learning next</strong></summary>
+
+<p>
+  Exploring cloud platforms, backend frameworks, and mobile development.
+</p>
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,azure,gcp,gradle,kotlin,spring&amp;perline=6" width="320" alt="Learning AWS, Azure, Google Cloud, Gradle, Kotlin, and Spring.">
+  </a>
 </p>
 
----
+</details>
 
 ## OSS Contributions
 
-I like contributing small, practical improvements to projects I use or care about: bug fixes, tests, docs, maintenance, typing, tooling, and developer experience improvements.
+Small, practical improvements to projects I use and care about.
+My contributions span mobile testing, JavaScript tooling, documentation, and developer experience.
+
+<p>
+  <a href="https://github.com/noritaka1166"><img src="https://img.shields.io/badge/GitHub-noritaka1166-237a68?style=flat-square&amp;logo=github&amp;logoColor=white" alt="Noritaka's GitHub profile"></a>
+  <a href="https://github.com/pulls?q=is%3Apr+author%3Anoritaka1166"><img src="https://img.shields.io/badge/Explore-Pull_Requests-3b638c?style=flat-square&amp;logo=opensourceinitiative&amp;logoColor=white" alt="Explore Noritaka's open source pull requests"></a>
+</p>
 
 <details>
-<summary>View detailed contribution links</summary>
+<summary><strong>Browse contributions by organization & repository</strong></summary>
 
 <!-- CONTRIBUTIONS:START -->
 - **AppiumTestDistribution**
@@ -389,9 +368,31 @@ I like contributing small, practical improvements to projects I use or care abou
 
 </details>
 
+## GitHub Activity
+
+<details>
+<summary><strong>View stats, languages & trophies</strong></summary>
+
+<p align="center">
+  <img alt="Noritaka's GitHub stats" width="440" src="https://github-readme-stats.vercel.app/api?username=noritaka1166&amp;count_private=true&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true" />
+  <img alt="Noritaka's most used languages" width="340" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noritaka1166&amp;layout=compact&amp;count_private=true&amp;theme=tokyonight&amp;hide_border=true" />
+</p>
+
+<p align="center">
+  <img alt="Noritaka's GitHub trophies" src="https://github-profile-trophy-unserori.vercel.app/?username=noritaka1166&amp;theme=onedark&amp;column=4&amp;margin-w=8&amp;margin-h=8&amp;no-frame=true" />
+</p>
+
+</details>
+
 ---
 
-<!-- Footer -->
 <p align="center">
-  Thanks for visiting. Let's keep making software better, one small improvement at a time.
+  <strong>Let's keep making software better.</strong><br>
+  <sub>One useful tool, one reliable test, one small contribution at a time.</sub>
+</p>
+
+<p align="center">
+  <a href="https://zenn.dev/noritaka1166">Zenn</a> &nbsp; · &nbsp;
+  <a href="https://dev.to/noritaka1166">dev.to</a> &nbsp; · &nbsp;
+  <a href="https://marketplace.visualstudio.com/publishers/noritaka1166">VS Code Marketplace</a>
 </p>
