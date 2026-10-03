@@ -5,7 +5,17 @@
   <img src="assets/profile-header-light.svg" width="1200" alt="Noritaka — Build. Test. Improve. Software engineer based in Japan, focused on development, automation, and open source.">
 </picture>
 
-<h1 align="center">Hi, I'm Noritaka 👋</h1>
+<h1 align="center">
+  Hi, I'm Noritaka
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32" alt="Waving hand">
+</h1>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;duration=2000&amp;pause=1000&amp;color=89DDC7&amp;center=true&amp;vCenter=true&amp;width=520&amp;height=52&amp;lines=Software+Engineer;Test+Engineer;OSS+Contributor">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;duration=2000&amp;pause=1000&amp;color=237A68&amp;center=true&amp;vCenter=true&amp;width=520&amp;height=52&amp;lines=Software+Engineer;Test+Engineer;OSS+Contributor" width="520" alt="Typing animation: Software Engineer, Test Engineer, OSS Contributor.">
+  </picture>
+</p>
 
 <p align="center">
   <strong>Software Engineer · Test Engineer · OSS Contributor</strong><br>
@@ -17,6 +27,7 @@
   <a href="https://marketplace.visualstudio.com/publishers/noritaka1166"><img src="https://img.shields.io/badge/VS_Code-Extensions-237a68?style=flat-square" alt="VS Code extensions by Noritaka"></a>
   <a href="https://zenn.dev/noritaka1166"><img src="https://img.shields.io/badge/Zenn-Articles-3b638c?style=flat-square&amp;logo=zenn&amp;logoColor=white" alt="Read Noritaka's articles on Zenn"></a>
   <a href="https://dev.to/noritaka1166"><img src="https://img.shields.io/badge/dev.to-Articles-3b638c?style=flat-square&amp;logo=devdotto&amp;logoColor=white" alt="Read Noritaka's articles on dev.to"></a>
+  <img src="https://komarev.com/ghpvc/?username=noritaka1166&amp;style=flat-square&amp;color=237a68" alt="Profile views">
 </p>
 
 <p align="center">
