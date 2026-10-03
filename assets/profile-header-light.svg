@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title description">
+  <title id="title">Noritaka — Build. Test. Improve.</title>
+  <desc id="description">An ivory profile banner with teal accents and an illustration combining code brackets with a check mark.</desc>
+  <rect x="1" y="1" width="1198" height="338" rx="24" fill="#f4f7f5" stroke="#dce5e0" stroke-width="2"/>
+  <path d="M64 58h36" stroke="#237a68" stroke-width="4" stroke-linecap="round"/>
+  <text x="115" y="64" fill="#556e69" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" letter-spacing="3">SOFTWARE ENGINEER / JAPAN</text>
+  <text x="60" y="163" fill="#172c34" font-family="Arial, Helvetica, sans-serif" font-size="90" font-weight="700" letter-spacing="-4">Noritaka<tspan fill="#237a68">.</tspan></text>
+  <text x="64" y="221" fill="#415a60" font-family="Arial, Helvetica, sans-serif" font-size="38" letter-spacing="-1">Build. Test. Improve.</text>
+  <g font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" letter-spacing="1.5">
+    <rect x="64" y="265" width="145" height="32" rx="16" fill="#e7efea"/>
+    <text x="84" y="286" fill="#237a68">DEVELOPMENT</text>
+    <rect x="221" y="265" width="151" height="32" rx="16" fill="#e7efea"/>
+    <text x="241" y="286" fill="#3b638c">AUTOMATION</text>
+    <rect x="384" y="265" width="168" height="32" rx="16" fill="#e7efea"/>
+    <text x="404" y="286" fill="#9a5736">OPEN SOURCE</text>
+  </g>
+  <path d="M787 64v212" stroke="#dce5e0" stroke-width="2"/>
+  <circle cx="977" cy="170" r="115" fill="none" stroke="#dce5e0" stroke-width="2"/>
+  <circle cx="977" cy="170" r="145" fill="none" stroke="#dce5e0" stroke-width="2" stroke-dasharray="4 12"/>
+  <rect x="903" y="96" width="148" height="148" rx="30" transform="rotate(-12 977 170)" fill="#e7efea" stroke="#237a68" stroke-width="2"/>
+  <g fill="none" stroke="#237a68" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <path d="m949 144-27 26 27 26m56-52 27 26-27 26"/>
+    <path d="m987 139-20 62" stroke="#3b638c"/>
+  </g>
+  <circle cx="1054" cy="246" r="27" fill="#237a68" stroke="#f4f7f5" stroke-width="6"/>
+  <path d="m1043 246 8 8 15-17" fill="none" stroke="#f4f7f5" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="881" cy="95" r="6" fill="#b47350"/>
+  <circle cx="1089" cy="106" r="4" fill="#3b638c"/>
+</svg>
