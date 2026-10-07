@@ -332,6 +332,8 @@ My contributions span mobile testing, JavaScript tooling, documentation, and dev
   - [chezmoi](https://github.com/twpayne/chezmoi/pulls?q=is%3Apr+author%3Anoritaka1166)
 - **type-challenges**
   - [type-challenges](https://github.com/type-challenges/type-challenges/pulls?q=is%3Apr+author%3Anoritaka1166)
+- **usernamehw**
+  - [vscode-error-lens](https://github.com/usernamehw/vscode-error-lens/pulls?q=is%3Apr+author%3Anoritaka1166)
 - **vadimdemedes**
   - [ink](https://github.com/vadimdemedes/ink/pulls?q=is%3Apr+author%3Anoritaka1166)
 - **validatorjs**
