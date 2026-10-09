@@ -203,6 +203,8 @@ My contributions span mobile testing, JavaScript tooling, documentation, and dev
 - **colinhacks**
   - [zod](https://github.com/colinhacks/zod/pulls?q=is%3Apr+author%3Anoritaka1166)
   - [zshy](https://github.com/colinhacks/zshy/pulls?q=is%3Apr+author%3Anoritaka1166)
+- **db-migrate**
+  - [node-db-migrate](https://github.com/db-migrate/node-db-migrate/pulls?q=is%3Apr+author%3Anoritaka1166)
 - **digitaldemocracy2030**
   - [idobata](https://github.com/digitaldemocracy2030/idobata/pulls?q=is%3Apr+author%3Anoritaka1166)
   - [kouchou-ai](https://github.com/digitaldemocracy2030/kouchou-ai/pulls?q=is%3Apr+author%3Anoritaka1166)
