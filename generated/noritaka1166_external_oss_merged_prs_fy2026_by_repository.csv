@@ -12,6 +12,7 @@ brianc,brianc/node-postgres,4,4,0,false,,https://github.com/brianc/node-postgres
 db-migrate,db-migrate/node-db-migrate,1,0,1,false,,https://github.com/db-migrate/node-db-migrate
 DefinitelyTyped,DefinitelyTyped/DefinitelyTyped,2,2,0,false,,https://github.com/DefinitelyTyped/DefinitelyTyped
 dougle,dougle/aws-vpn-tab-close,1,0,1,false,,https://github.com/dougle/aws-vpn-tab-close
+expressjs,expressjs/express,1,1,0,false,,https://github.com/expressjs/express
 expressjs,expressjs/multer,1,0,1,false,,https://github.com/expressjs/multer
 facebook,facebook/lexical,1,1,0,false,,https://github.com/facebook/lexical
 faker-js,faker-js/faker,1,1,0,false,,https://github.com/faker-js/faker

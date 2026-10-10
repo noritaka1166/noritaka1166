@@ -22,6 +22,7 @@ db-migrate/node-db-migrate,842,chore: fix typos,2025-08-29T15:22:28Z,closed,true
 DefinitelyTyped/DefinitelyTyped,75150,chore: migrate husky to v9,2026-06-20T10:20:52Z,closed,true,2026-06-24T16:39:20Z,2026-06-24T16:39:20Z,https://github.com/DefinitelyTyped/DefinitelyTyped/pull/75150
 DefinitelyTyped/DefinitelyTyped,75151,Sync Japanese README with current docs,2026-06-20T11:37:29Z,closed,true,2026-06-24T16:42:28Z,2026-06-24T16:42:29Z,https://github.com/DefinitelyTyped/DefinitelyTyped/pull/75151
 dougle/aws-vpn-tab-close,7,Add Japanese authentication message support in content.js,2025-04-19T06:15:08Z,closed,true,2026-08-21T09:29:21Z,2026-08-21T09:29:21Z,https://github.com/dougle/aws-vpn-tab-close/pull/7
+expressjs/express,7494,build(deps-dev): bump supertest from 6.3.0 to 7.3.0,2026-09-29T16:50:10Z,closed,true,2026-10-09T15:54:31Z,2026-10-09T15:54:31Z,https://github.com/expressjs/express/pull/7494
 expressjs/multer,1354,docs: add Japanese translation to README,2025-08-09T15:54:41Z,closed,true,2026-08-25T11:24:47Z,2026-08-25T11:24:47Z,https://github.com/expressjs/multer/pull/1354
 facebook/lexical,8693,[lexical] Chore: Remove unused tmp dependency,2026-06-13T15:24:28Z,closed,true,2026-06-13T15:52:35Z,2026-06-13T15:52:35Z,https://github.com/facebook/lexical/pull/8693
 faker-js/faker,3922,feat(locale): add 060 Japanese mobile phone number formats,2026-06-28T14:09:45Z,closed,true,2026-06-30T21:17:01Z,2026-06-30T21:17:01Z,https://github.com/faker-js/faker/pull/3922
