@@ -28,6 +28,7 @@ facebook/lexical,8693,[lexical] Chore: Remove unused tmp dependency,2026-06-13T1
 faker-js/faker,3922,feat(locale): add 060 Japanese mobile phone number formats,2026-06-28T14:09:45Z,closed,true,2026-06-30T21:17:01Z,2026-06-30T21:17:01Z,https://github.com/faker-js/faker/pull/3922
 jest-community/awesome-jest,147,chore: remove deprecated and broken links,2026-09-21T13:22:25Z,closed,true,2026-09-21T18:25:40Z,2026-09-21T18:25:41Z,https://github.com/jest-community/awesome-jest/pull/147
 jest-community/eslint-plugin-jest,2023,docs(no-unneeded-async-expect-function): address typo,2026-09-21T01:57:26Z,closed,true,2026-09-21T02:36:28Z,2026-09-21T02:36:28Z,https://github.com/jest-community/eslint-plugin-jest/pull/2023
+jest-community/eslint-plugin-jest,2024,chore: migrate Babel config to TypeScript,2026-09-21T02:27:44Z,closed,true,2026-10-10T19:38:48Z,2026-10-10T19:38:48Z,https://github.com/jest-community/eslint-plugin-jest/pull/2024
 jest-community/jest-extended,967,docs: fix typo in contributing guide,2026-09-21T08:37:26Z,closed,true,2026-09-21T17:15:58Z,2026-09-21T17:15:58Z,https://github.com/jest-community/jest-extended/pull/967
 jest-community/jest-extended,968,chore(website): update Twitter links to X,2026-09-21T09:39:35Z,closed,true,2026-09-21T17:16:24Z,2026-09-21T17:16:24Z,https://github.com/jest-community/jest-extended/pull/968
 microsoft/playwright.dev,2060,docs: update Twitter links to X,2026-06-21T04:34:03Z,closed,true,2026-06-22T14:59:00Z,2026-06-22T14:59:00Z,https://github.com/microsoft/playwright.dev/pull/2060

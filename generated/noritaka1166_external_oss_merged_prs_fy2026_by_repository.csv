@@ -17,7 +17,7 @@ expressjs,expressjs/multer,1,0,1,false,,https://github.com/expressjs/multer
 facebook,facebook/lexical,1,1,0,false,,https://github.com/facebook/lexical
 faker-js,faker-js/faker,1,1,0,false,,https://github.com/faker-js/faker
 jest-community,jest-community/awesome-jest,1,1,0,false,,https://github.com/jest-community/awesome-jest
-jest-community,jest-community/eslint-plugin-jest,1,1,0,false,,https://github.com/jest-community/eslint-plugin-jest
+jest-community,jest-community/eslint-plugin-jest,2,2,0,false,,https://github.com/jest-community/eslint-plugin-jest
 jest-community,jest-community/jest-extended,2,2,0,false,,https://github.com/jest-community/jest-extended
 microsoft,microsoft/playwright.dev,1,1,0,false,,https://github.com/microsoft/playwright.dev
 mswjs,mswjs/playwright,1,1,0,false,,https://github.com/mswjs/playwright
