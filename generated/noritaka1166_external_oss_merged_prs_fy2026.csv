@@ -80,6 +80,9 @@ team-mirai/marumie,1488,fix: TikTokの公式アカウントリンクを更新,20
 team-mirai/marumie,1490,chore(webapp): 使用されていない optimizeCss 設定と依存関係を削除,2026-09-22T08:16:19Z,closed,true,2026-09-23T11:15:40Z,2026-09-23T11:15:41Z,https://github.com/team-mirai/marumie/pull/1490
 team-mirai/mirai-gikai,989,SNSリンク更新し、noteとthreadsを追加,2026-09-22T06:36:26Z,closed,true,2026-09-22T06:46:34Z,2026-09-22T06:46:34Z,https://github.com/team-mirai/mirai-gikai/pull/989
 tonybaloney/vscode-pets,904,chore: Update deprecated tsc.autoDetect setting to js/ts namespace,2026-06-13T23:29:27Z,closed,true,2026-06-14T08:37:25Z,2026-06-14T08:37:25Z,https://github.com/tonybaloney/vscode-pets/pull/904
+ts-safeql/safeql,486,chore: update GitHub Actions versions,2026-06-14T02:07:37Z,closed,true,2026-10-13T21:38:53Z,2026-10-13T21:38:53Z,https://github.com/ts-safeql/safeql/pull/486
+ts-safeql/safeql,509,fix(vscode): replace deprecated typescript.tsdk setting,2026-10-03T18:36:53Z,closed,true,2026-10-13T21:16:09Z,2026-10-13T21:16:09Z,https://github.com/ts-safeql/safeql/pull/509
+ts-safeql/safeql,510,chore(eslint-plugin): remove unused quansync dependency,2026-10-04T02:23:20Z,closed,true,2026-10-13T21:23:06Z,2026-10-13T21:23:07Z,https://github.com/ts-safeql/safeql/pull/510
 usernamehw/vscode-error-lens,277,docs: fix typos in descriptions and comments,2026-09-27T13:48:14Z,closed,true,2026-10-07T09:13:53Z,2026-10-07T09:13:53Z,https://github.com/usernamehw/vscode-error-lens/pull/277
 usernamehw/vscode-error-lens,278,refactor: simplify alignment margin clamping with Math.max,2026-09-27T14:26:10Z,closed,true,2026-10-07T09:13:22Z,2026-10-07T09:13:23Z,https://github.com/usernamehw/vscode-error-lens/pull/278
 validatorjs/validator.js,2591,chore: fix typo in comment,2025-09-19T17:02:11Z,closed,true,2026-04-01T18:03:31Z,2026-04-01T18:03:31Z,https://github.com/validatorjs/validator.js/pull/2591
