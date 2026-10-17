@@ -32,6 +32,7 @@ jest-community/eslint-plugin-jest,2024,chore: migrate Babel config to TypeScript
 jest-community/jest-extended,967,docs: fix typo in contributing guide,2026-09-21T08:37:26Z,closed,true,2026-09-21T17:15:58Z,2026-09-21T17:15:58Z,https://github.com/jest-community/jest-extended/pull/967
 jest-community/jest-extended,968,chore(website): update Twitter links to X,2026-09-21T09:39:35Z,closed,true,2026-09-21T17:16:24Z,2026-09-21T17:16:24Z,https://github.com/jest-community/jest-extended/pull/968
 microsoft/playwright.dev,2060,docs: update Twitter links to X,2026-06-21T04:34:03Z,closed,true,2026-06-22T14:59:00Z,2026-06-22T14:59:00Z,https://github.com/microsoft/playwright.dev/pull/2060
+microsoft/vscode-eslint,2032,refactor: replace substr with slice & use startsWith and endsWith,2025-06-28T09:07:51Z,closed,true,2026-10-16T16:07:04Z,2026-10-16T16:07:04Z,https://github.com/microsoft/vscode-eslint/pull/2032
 mswjs/playwright,50,docs: fix typo in fixture comment,2026-06-20T04:52:50Z,closed,true,2026-06-21T08:48:32Z,2026-06-21T08:48:32Z,https://github.com/mswjs/playwright/pull/50
 redhat-developer/vscode-yaml,1268,Fix typos in contributing guide,2026-07-12T15:13:14Z,closed,true,2026-07-14T19:00:35Z,2026-07-14T19:00:35Z,https://github.com/redhat-developer/vscode-yaml/pull/1268
 redhat-developer/vscode-yaml,1285,chore: remove unused @types/webpack dependency,2026-09-27T05:30:16Z,closed,true,2026-09-28T21:33:06Z,2026-09-28T21:33:06Z,https://github.com/redhat-developer/vscode-yaml/pull/1285

@@ -20,6 +20,7 @@ jest-community,jest-community/awesome-jest,1,1,0,false,,https://github.com/jest-
 jest-community,jest-community/eslint-plugin-jest,2,2,0,false,,https://github.com/jest-community/eslint-plugin-jest
 jest-community,jest-community/jest-extended,2,2,0,false,,https://github.com/jest-community/jest-extended
 microsoft,microsoft/playwright.dev,1,1,0,false,,https://github.com/microsoft/playwright.dev
+microsoft,microsoft/vscode-eslint,1,0,1,false,,https://github.com/microsoft/vscode-eslint
 mswjs,mswjs/playwright,1,1,0,false,,https://github.com/mswjs/playwright
 redhat-developer,redhat-developer/vscode-yaml,4,4,0,false,,https://github.com/redhat-developer/vscode-yaml
 redhat-developer,redhat-developer/yaml-language-server,2,2,0,false,,https://github.com/redhat-developer/yaml-language-server
