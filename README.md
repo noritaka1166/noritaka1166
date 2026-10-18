@@ -283,6 +283,8 @@ My contributions span mobile testing, JavaScript tooling, documentation, and dev
   - [source](https://github.com/mswjs/source/pulls?q=is%3Apr+author%3Anoritaka1166)
 - **mui**
   - [material-ui](https://github.com/mui/material-ui/pulls?q=is%3Apr+author%3Anoritaka1166)
+- **mylesmmurphy**
+  - [prettify-ts](https://github.com/mylesmmurphy/prettify-ts/pulls?q=is%3Apr+author%3Anoritaka1166)
 - **nodejs**
   - [node](https://github.com/nodejs/node/pulls?q=is%3Apr+author%3Anoritaka1166)
 - **nvm-sh**
