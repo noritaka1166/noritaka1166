@@ -368,6 +368,8 @@ My contributions span mobile testing, JavaScript tooling, documentation, and dev
   - [react-pdf](https://github.com/wojtekmaj/react-pdf/pulls?q=is%3Apr+author%3Anoritaka1166)
 - **yargs**
   - [yargs](https://github.com/yargs/yargs/pulls?q=is%3Apr+author%3Anoritaka1166)
+- **yoavbls**
+  - [pretty-ts-errors](https://github.com/yoavbls/pretty-ts-errors/pulls?q=is%3Apr+author%3Anoritaka1166)
 - **yoshiko-pg**
   - [difit](https://github.com/yoshiko-pg/difit/pulls?q=is%3Apr+author%3Anoritaka1166)
 <!-- CONTRIBUTIONS:END -->
