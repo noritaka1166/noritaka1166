@@ -105,3 +105,4 @@ webdriverio/guinea-pig,12,ci: update deploy workflow to node 22 and use npm ci,2
 webdriverio/webdriverio,15307,chore: remove crowdin badge and related configuration file,2026-06-07T06:19:23Z,closed,true,2026-06-08T04:28:15Z,2026-06-08T04:28:15Z,https://github.com/webdriverio/webdriverio/pull/15307
 webpack/webpack-cli,4810,chore: remove unused cross-env dependency,2026-07-19T03:29:41Z,closed,true,2026-07-20T16:09:47Z,2026-07-20T16:09:47Z,https://github.com/webpack/webpack-cli/pull/4810
 yargs/yargs,2492,chore: fix typos,2025-10-09T16:45:45Z,closed,true,2026-06-26T04:46:05Z,2026-06-26T04:46:05Z,https://github.com/yargs/yargs/pull/2492
+yoavbls/pretty-ts-errors,239,fix: correct typos in docs and comments,2026-10-17T09:15:17Z,closed,true,2026-10-18T08:51:02Z,2026-10-18T08:51:02Z,https://github.com/yoavbls/pretty-ts-errors/pull/239
