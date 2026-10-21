@@ -10,6 +10,7 @@ appium/appium-flutter-driver,899,chore(finder): remove obsolete @types/expect,20
 appium/appium-xcuitest-driver,2892,chore(deps-dev): remove unused mocha-junit-reporter,2026-06-28T13:34:59Z,closed,true,2026-06-29T08:02:33Z,2026-06-29T08:02:33Z,https://github.com/appium/appium-xcuitest-driver/pull/2892
 bcomnes/npm-run-all2,232,fix: update Node.js version requirements,2026-06-07T10:40:47Z,closed,true,2026-06-12T18:10:03Z,2026-06-12T18:10:03Z,https://github.com/bcomnes/npm-run-all2/pull/232
 bcomnes/npm-run-all2,237,chore: update schema version in .knip.jsonc to v6,2026-06-13T03:12:49Z,closed,true,2026-06-21T17:06:54Z,2026-06-21T17:06:54Z,https://github.com/bcomnes/npm-run-all2/pull/237
+bcomnes/npm-run-all2,254,docs: fix default argument placeholder syntax,2026-09-25T22:06:49Z,closed,true,2026-10-20T23:50:56Z,2026-10-20T23:50:56Z,https://github.com/bcomnes/npm-run-all2/pull/254
 biomejs/biome-vscode,1171,refactor: simplify command subscription registration,2026-09-28T15:19:40Z,closed,true,2026-10-07T16:33:51Z,2026-10-07T16:33:51Z,https://github.com/biomejs/biome-vscode/pull/1171
 biomejs/website,4586,chore(deps): remove unused rehype-autolink-headings,2026-09-28T13:05:46Z,closed,true,2026-09-28T17:19:07Z,2026-09-28T17:19:07Z,https://github.com/biomejs/website/pull/4586
 biomejs/website,4589,chore: remove unused remark-toc dependency,2026-09-29T15:48:44Z,closed,true,2026-09-29T16:11:21Z,2026-09-29T16:11:21Z,https://github.com/biomejs/website/pull/4589
