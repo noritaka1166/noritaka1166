@@ -8,6 +8,7 @@ appium/appium-android-driver,1068,ci: use shared PR title workflow,2026-06-27T15
 appium/appium-android-driver,1069,chore: Fix Prettier formatting,2026-06-27T15:07:33Z,closed,true,2026-06-27T15:08:53Z,2026-06-27T15:08:53Z,https://github.com/appium/appium-android-driver/pull/1069
 appium/appium-flutter-driver,899,chore(finder): remove obsolete @types/expect,2026-07-21T15:31:10Z,closed,true,2026-07-22T03:03:23Z,2026-07-22T03:03:23Z,https://github.com/appium/appium-flutter-driver/pull/899
 appium/appium-xcuitest-driver,2892,chore(deps-dev): remove unused mocha-junit-reporter,2026-06-28T13:34:59Z,closed,true,2026-06-29T08:02:33Z,2026-06-29T08:02:33Z,https://github.com/appium/appium-xcuitest-driver/pull/2892
+azu/promises-book,389,chore: 日本語ドキュメントの誤字脱字を修正,2026-10-20T12:38:48Z,closed,true,2026-10-26T23:53:12Z,2026-10-26T23:53:12Z,https://github.com/azu/promises-book/pull/389
 bcomnes/npm-run-all2,232,fix: update Node.js version requirements,2026-06-07T10:40:47Z,closed,true,2026-06-12T18:10:03Z,2026-06-12T18:10:03Z,https://github.com/bcomnes/npm-run-all2/pull/232
 bcomnes/npm-run-all2,237,chore: update schema version in .knip.jsonc to v6,2026-06-13T03:12:49Z,closed,true,2026-06-21T17:06:54Z,2026-06-21T17:06:54Z,https://github.com/bcomnes/npm-run-all2/pull/237
 bcomnes/npm-run-all2,254,docs: fix default argument placeholder syntax,2026-09-25T22:06:49Z,closed,true,2026-10-20T23:50:56Z,2026-10-20T23:50:56Z,https://github.com/bcomnes/npm-run-all2/pull/254
