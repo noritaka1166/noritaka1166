@@ -225,9 +225,6 @@ My contributions span mobile testing, JavaScript tooling, documentation, and dev
   - [express](https://github.com/expressjs/express/pulls?q=is%3Apr+author%3Anoritaka1166)
   - [multer](https://github.com/expressjs/multer/pulls?q=is%3Apr+author%3Anoritaka1166)
   - [session](https://github.com/expressjs/session/pulls?q=is%3Apr+author%3Anoritaka1166)
-- **facebook**
-  - [docusaurus](https://github.com/facebook/docusaurus/pulls?q=is%3Apr+author%3Anoritaka1166)
-  - [lexical](https://github.com/facebook/lexical/pulls?q=is%3Apr+author%3Anoritaka1166)
 - **faker-js**
   - [faker](https://github.com/faker-js/faker/pulls?q=is%3Apr+author%3Anoritaka1166)
 - **forwardemail**
@@ -265,6 +262,9 @@ My contributions span mobile testing, JavaScript tooling, documentation, and dev
   - [marp-vscode](https://github.com/marp-team/marp-vscode/pulls?q=is%3Apr+author%3Anoritaka1166)
 - **mechatroner**
   - [vscode_rainbow_csv](https://github.com/mechatroner/vscode_rainbow_csv/pulls?q=is%3Apr+author%3Anoritaka1166)
+- **meta**
+  - [docusaurus](https://github.com/meta/docusaurus/pulls?q=is%3Apr+author%3Anoritaka1166)
+  - [lexical](https://github.com/meta/lexical/pulls?q=is%3Apr+author%3Anoritaka1166)
 - **microsoft**
   - [edit](https://github.com/microsoft/edit/pulls?q=is%3Apr+author%3Anoritaka1166)
   - [playwright](https://github.com/microsoft/playwright/pulls?q=is%3Apr+author%3Anoritaka1166)
