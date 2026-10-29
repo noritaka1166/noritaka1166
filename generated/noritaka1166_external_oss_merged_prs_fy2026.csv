@@ -27,13 +27,13 @@ DefinitelyTyped/DefinitelyTyped,75151,Sync Japanese README with current docs,202
 dougle/aws-vpn-tab-close,7,Add Japanese authentication message support in content.js,2025-04-19T06:15:08Z,closed,true,2026-08-21T09:29:21Z,2026-08-21T09:29:21Z,https://github.com/dougle/aws-vpn-tab-close/pull/7
 expressjs/express,7494,build(deps-dev): bump supertest from 6.3.0 to 7.3.0,2026-09-29T16:50:10Z,closed,true,2026-10-09T15:54:31Z,2026-10-09T15:54:31Z,https://github.com/expressjs/express/pull/7494
 expressjs/multer,1354,docs: add Japanese translation to README,2025-08-09T15:54:41Z,closed,true,2026-08-25T11:24:47Z,2026-08-25T11:24:47Z,https://github.com/expressjs/multer/pull/1354
-facebook/lexical,8693,[lexical] Chore: Remove unused tmp dependency,2026-06-13T15:24:28Z,closed,true,2026-06-13T15:52:35Z,2026-06-13T15:52:35Z,https://github.com/facebook/lexical/pull/8693
 faker-js/faker,3922,feat(locale): add 060 Japanese mobile phone number formats,2026-06-28T14:09:45Z,closed,true,2026-06-30T21:17:01Z,2026-06-30T21:17:01Z,https://github.com/faker-js/faker/pull/3922
 jest-community/awesome-jest,147,chore: remove deprecated and broken links,2026-09-21T13:22:25Z,closed,true,2026-09-21T18:25:40Z,2026-09-21T18:25:41Z,https://github.com/jest-community/awesome-jest/pull/147
 jest-community/eslint-plugin-jest,2023,docs(no-unneeded-async-expect-function): address typo,2026-09-21T01:57:26Z,closed,true,2026-09-21T02:36:28Z,2026-09-21T02:36:28Z,https://github.com/jest-community/eslint-plugin-jest/pull/2023
 jest-community/eslint-plugin-jest,2024,chore: migrate Babel config to TypeScript,2026-09-21T02:27:44Z,closed,true,2026-10-10T19:38:48Z,2026-10-10T19:38:48Z,https://github.com/jest-community/eslint-plugin-jest/pull/2024
 jest-community/jest-extended,967,docs: fix typo in contributing guide,2026-09-21T08:37:26Z,closed,true,2026-09-21T17:15:58Z,2026-09-21T17:15:58Z,https://github.com/jest-community/jest-extended/pull/967
 jest-community/jest-extended,968,chore(website): update Twitter links to X,2026-09-21T09:39:35Z,closed,true,2026-09-21T17:16:24Z,2026-09-21T17:16:24Z,https://github.com/jest-community/jest-extended/pull/968
+meta/lexical,8693,[lexical] Chore: Remove unused tmp dependency,2026-06-13T15:24:28Z,closed,true,2026-06-13T15:52:35Z,2026-06-13T15:52:35Z,https://github.com/meta/lexical/pull/8693
 microsoft/playwright.dev,2060,docs: update Twitter links to X,2026-06-21T04:34:03Z,closed,true,2026-06-22T14:59:00Z,2026-06-22T14:59:00Z,https://github.com/microsoft/playwright.dev/pull/2060
 microsoft/vscode-eslint,2032,refactor: replace substr with slice & use startsWith and endsWith,2025-06-28T09:07:51Z,closed,true,2026-10-16T16:07:04Z,2026-10-16T16:07:04Z,https://github.com/microsoft/vscode-eslint/pull/2032
 mswjs/playwright,50,docs: fix typo in fixture comment,2026-06-20T04:52:50Z,closed,true,2026-06-21T08:48:32Z,2026-06-21T08:48:32Z,https://github.com/mswjs/playwright/pull/50

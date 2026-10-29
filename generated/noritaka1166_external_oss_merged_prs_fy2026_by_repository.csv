@@ -15,11 +15,11 @@ DefinitelyTyped,DefinitelyTyped/DefinitelyTyped,2,2,0,false,,https://github.com/
 dougle,dougle/aws-vpn-tab-close,1,0,1,false,,https://github.com/dougle/aws-vpn-tab-close
 expressjs,expressjs/express,1,1,0,false,,https://github.com/expressjs/express
 expressjs,expressjs/multer,1,0,1,false,,https://github.com/expressjs/multer
-facebook,facebook/lexical,1,1,0,false,,https://github.com/facebook/lexical
 faker-js,faker-js/faker,1,1,0,false,,https://github.com/faker-js/faker
 jest-community,jest-community/awesome-jest,1,1,0,false,,https://github.com/jest-community/awesome-jest
 jest-community,jest-community/eslint-plugin-jest,2,2,0,false,,https://github.com/jest-community/eslint-plugin-jest
 jest-community,jest-community/jest-extended,2,2,0,false,,https://github.com/jest-community/jest-extended
+meta,meta/lexical,1,1,0,false,,https://github.com/meta/lexical
 microsoft,microsoft/playwright.dev,1,1,0,false,,https://github.com/microsoft/playwright.dev
 microsoft,microsoft/vscode-eslint,1,0,1,false,,https://github.com/microsoft/vscode-eslint
 mswjs,mswjs/playwright,1,1,0,false,,https://github.com/mswjs/playwright
