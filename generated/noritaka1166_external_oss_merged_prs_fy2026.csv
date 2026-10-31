@@ -24,6 +24,7 @@ brianc/node-postgres,3790,chore(pg-connection-string): remove unused istanbul de
 db-migrate/node-db-migrate,842,chore: fix typos,2025-08-29T15:22:28Z,closed,true,2026-10-08T22:00:04Z,2026-10-08T22:00:04Z,https://github.com/db-migrate/node-db-migrate/pull/842
 DefinitelyTyped/DefinitelyTyped,75150,chore: migrate husky to v9,2026-06-20T10:20:52Z,closed,true,2026-06-24T16:39:20Z,2026-06-24T16:39:20Z,https://github.com/DefinitelyTyped/DefinitelyTyped/pull/75150
 DefinitelyTyped/DefinitelyTyped,75151,Sync Japanese README with current docs,2026-06-20T11:37:29Z,closed,true,2026-06-24T16:42:28Z,2026-06-24T16:42:29Z,https://github.com/DefinitelyTyped/DefinitelyTyped/pull/75151
+digitaldemocracy2030/website,223,chore(ci): update GitHub Actions and pin to commit SHAs,2026-10-03T17:23:42Z,closed,true,2026-10-30T08:44:40Z,2026-10-30T08:44:41Z,https://github.com/digitaldemocracy2030/website/pull/223
 dougle/aws-vpn-tab-close,7,Add Japanese authentication message support in content.js,2025-04-19T06:15:08Z,closed,true,2026-08-21T09:29:21Z,2026-08-21T09:29:21Z,https://github.com/dougle/aws-vpn-tab-close/pull/7
 expressjs/express,7494,build(deps-dev): bump supertest from 6.3.0 to 7.3.0,2026-09-29T16:50:10Z,closed,true,2026-10-09T15:54:31Z,2026-10-09T15:54:31Z,https://github.com/expressjs/express/pull/7494
 expressjs/multer,1354,docs: add Japanese translation to README,2025-08-09T15:54:41Z,closed,true,2026-08-25T11:24:47Z,2026-08-25T11:24:47Z,https://github.com/expressjs/multer/pull/1354
