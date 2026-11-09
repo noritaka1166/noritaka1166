@@ -35,6 +35,8 @@ jest-community/eslint-plugin-jest,2023,docs(no-unneeded-async-expect-function): 
 jest-community/eslint-plugin-jest,2024,chore: migrate Babel config to TypeScript,2026-09-21T02:27:44Z,closed,true,2026-10-10T19:38:48Z,2026-10-10T19:38:48Z,https://github.com/jest-community/eslint-plugin-jest/pull/2024
 jest-community/jest-extended,967,docs: fix typo in contributing guide,2026-09-21T08:37:26Z,closed,true,2026-09-21T17:15:58Z,2026-09-21T17:15:58Z,https://github.com/jest-community/jest-extended/pull/967
 jest-community/jest-extended,968,chore(website): update Twitter links to X,2026-09-21T09:39:35Z,closed,true,2026-09-21T17:16:24Z,2026-09-21T17:16:24Z,https://github.com/jest-community/jest-extended/pull/968
+jest-community/jest-extended,976,fix: support BigInt in toBeInteger,2026-10-18T05:05:39Z,closed,true,2026-11-09T02:16:04Z,2026-11-09T02:16:04Z,https://github.com/jest-community/jest-extended/pull/976
+jest-community/jest-extended,978,fix: exclude negative infinity from toBeNegative,2026-10-18T05:45:25Z,closed,true,2026-11-08T21:15:27Z,2026-11-08T21:15:27Z,https://github.com/jest-community/jest-extended/pull/978
 meta/lexical,8693,[lexical] Chore: Remove unused tmp dependency,2026-06-13T15:24:28Z,closed,true,2026-06-13T15:52:35Z,2026-06-13T15:52:35Z,https://github.com/meta/lexical/pull/8693
 microsoft/playwright.dev,2060,docs: update Twitter links to X,2026-06-21T04:34:03Z,closed,true,2026-06-22T14:59:00Z,2026-06-22T14:59:00Z,https://github.com/microsoft/playwright.dev/pull/2060
 microsoft/vscode-eslint,2032,refactor: replace substr with slice & use startsWith and endsWith,2025-06-28T09:07:51Z,closed,true,2026-10-16T16:07:04Z,2026-10-16T16:07:04Z,https://github.com/microsoft/vscode-eslint/pull/2032
