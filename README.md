@@ -217,8 +217,6 @@ My contributions span mobile testing, JavaScript tooling, documentation, and dev
   - [aws-vpn-tab-close](https://github.com/dougle/aws-vpn-tab-close/pulls?q=is%3Apr+author%3Anoritaka1166)
 - **editorconfig**
   - [editorconfig-vscode](https://github.com/editorconfig/editorconfig-vscode/pulls?q=is%3Apr+author%3Anoritaka1166)
-- **electric-sql**
-  - [pglite](https://github.com/electric-sql/pglite/pulls?q=is%3Apr+author%3Anoritaka1166)
 - **express-validator**
   - [express-validator](https://github.com/express-validator/express-validator/pulls?q=is%3Apr+author%3Anoritaka1166)
 - **expressjs**
@@ -285,6 +283,8 @@ My contributions span mobile testing, JavaScript tooling, documentation, and dev
   - [material-ui](https://github.com/mui/material-ui/pulls?q=is%3Apr+author%3Anoritaka1166)
 - **mylesmmurphy**
   - [prettify-ts](https://github.com/mylesmmurphy/prettify-ts/pulls?q=is%3Apr+author%3Anoritaka1166)
+- **neondatabase**
+  - [electric-pglite](https://github.com/neondatabase/electric-pglite/pulls?q=is%3Apr+author%3Anoritaka1166)
 - **nodejs**
   - [node](https://github.com/nodejs/node/pulls?q=is%3Apr+author%3Anoritaka1166)
 - **nvm-sh**
